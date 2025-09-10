@@ -19,38 +19,68 @@ MODEL = "google/gemini-2.5-flash"
 
 def generate_tech_news_digest():
     """
-    Intelligently searches the web for the latest tech news and generates a TL;DR summary
-    in a single, simplified API call.
+    Intelligently searches the web for the latest tech news and generates a TL;DR summary.
+    This version uses a multi-turn conversation to ensure the model properly uses its tools.
     """
+    messages = [
+        {"role": "system", "content": "You are an automated agent for a GitHub Actions workflow. Your ONLY task is to search the web for the latest tech news and provide a concise summary. You MUST execute this task without any user interaction or follow-up questions. Based on your best-effort search, you will produce a summary."},
+        {"role": "user", "content": "Perform a web search for the most recent and significant tech news from the past 24 hours. Focus on major announcements, product releases, or industry shifts from top sources like CNET, The Verge, and TechCrunch. Provide a summary with key headlines in a plain text, easy-to-read, TL;DR format."}
+    ]
+    
+    tools = [
+        {
+            "type": "function",
+            "function": {
+                "name": "web_search",
+                "description": "Searches the web for information."
+            }
+        }
+    ]
+    
+    print("Starting intelligent web search for latest tech news...")
+    
     try:
-        print("Starting single-turn web search for latest tech news...")
-        
-        response = client.chat.completions.create(
-            model=MODEL,
-            messages=[
-                {"role": "system", "content": "You are an automated agent for a GitHub Actions workflow. Your ONLY task is to search the web for the latest tech news and provide a concise summary. You MUST execute this task without any user interaction or follow-up questions. Based on your best-effort search, you will produce a summary."},
-                {"role": "user", "content": "Using web search, find the most recent and significant tech news from the past 24 hours. Focus on major announcements, product releases, or industry shifts from top sources like CNET, The Verge, and TechCrunch. Provide a summary with key headlines in a plain text, easy-to-read, TL;DR format."}
-            ],
-            tools=[
-                {
-                    "type": "function",
-                    "function": {
+        # Loop to handle tool calls until a final response is received
+        while True:
+            response = client.chat.completions.create(
+                model=MODEL,
+                messages=messages,
+                tools=tools,
+                tool_choice="auto",
+                max_tokens=1024,
+                stream=False
+            )
+            
+            response_message = response.choices[0].message
+            finish_reason = response.choices[0].finish_reason
+            
+            # Check for tool calls. The finish_reason is a definitive way to check.
+            if finish_reason == "tool_calls":
+                print("LLM requested a web search. Executing tool call...")
+                
+                messages.append(response_message)
+                
+                # Append the tool message to the message history for the next turn
+                messages.append(
+                    {
+                        "tool_call_id": response_message.tool_calls[0].id,
+                        "role": "tool",
                         "name": "web_search",
-                        "description": "Searches the web for information."
+                        "content": json.dumps({"search_query": response_message.tool_calls[0].function.arguments})
                     }
-                }
-            ],
-            tool_choice="auto",
-            max_tokens=1024,
-            stream=False
-        )
-        
-        summary = response.choices[0].message.content.strip()
-        
-        if not summary:
-            print("Warning: The LLM returned an empty summary.", file=sys.stderr)
-            return "No significant tech news found in the latest search."
-        return summary
+                )
+                continue
+            elif finish_reason == "stop":
+                # No tool calls, this is the final response
+                summary = response_message.content.strip()
+                if not summary:
+                    print("Warning: The LLM returned an empty summary.", file=sys.stderr)
+                    return "No significant tech news found in the latest search."
+                return summary
+            else:
+                # Handle unexpected finish reasons
+                print(f"Warning: Unexpected finish reason from LLM: {finish_reason}", file=sys.stderr)
+                return "An unexpected error occurred while fetching news."
 
     except openai.APIConnectionError as e:
         print(f"Failed to connect to Openrouter API: {e}", file=sys.stderr)
