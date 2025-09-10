@@ -2,6 +2,7 @@ import os
 import sys
 import openai
 from datetime import datetime
+import json
 
 # Configure the Openrouter client using the API key from environment variables
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
@@ -14,35 +15,73 @@ client = openai.OpenAI(
     api_key=OPENROUTER_API_KEY,
 )
 
-# Use a model that supports the 'online' web search capability
+# Use a model that supports tool calling.
 MODEL = "mistralai/mixtral-8x7b-instruct-v0.1"
-SEARCH_MODEL = f"{MODEL}:online"
 
 def generate_tech_news_digest():
     """
     Intelligently searches the web for the latest tech news and generates a TL;DR summary.
     """
+    messages = [
+        {"role": "system", "content": "You are a professional tech journalist. Your task is to find the most recent and significant news from top tech sources like CNET, The Verge, and TechCrunch. Summarize the key developments in a concise, plain text TL;DR format."},
+        {"role": "user", "content": "Find the latest tech news from the past 24 hours. Focus on major announcements, product releases, or industry shifts. Provide a summary with key headlines in a plain text, easy-to-read format."}
+    ]
+    
+    # Define the web search tool for the model to use
+    tools = [
+        {
+            "type": "function",
+            "function": {
+                "name": "web_search",
+                "description": "Searches the web for information."
+            }
+        }
+    ]
+    
+    print("Starting intelligent web search for latest tech news...")
+    
     try:
-        print("Starting intelligent web search for latest tech news...")
-        
-        # Initial prompt to the LLM to perform a web search
-        response = client.chat.completions.create(
-            model=SEARCH_MODEL,
-            messages=[
-                {"role": "system", "content": "You are a professional tech journalist. Your task is to find the most recent and significant news from top tech sources like CNET, The Verge, and TechCrunch. Summarize the key developments in a concise, plain text TL;DR format."},
-                {"role": "user", "content": "Find the latest tech news from the past 24 hours. Focus on major announcements, product releases, or industry shifts. Provide a summary with key headlines in a plain text, easy-to-read format."}
-            ],
-            stream=False
-        )
-
-        # The model should respond with a direct summary after performing the web search
-        summary = response.choices[0].message.content.strip()
-
-        if not summary:
-            print("Warning: The LLM returned an empty summary.", file=sys.stderr)
-            return "No significant tech news found in the latest search."
-
-        return summary
+        # Loop to handle tool calls until a final response is received
+        while True:
+            response = client.chat.completions.create(
+                model=MODEL,
+                messages=messages,
+                tools=tools,
+                tool_choice="auto", # Allows the model to decide whether to use the tool
+                stream=False
+            )
+            
+            response_message = response.choices[0].message
+            
+            # Check for tool calls
+            if response_message.tool_calls:
+                for tool_call in response_message.tool_calls:
+                    if tool_call.function.name == "web_search":
+                        # The model has decided to use the web search tool
+                        print("LLM requested a web search. Executing tool call...")
+                        
+                        # Note: The tool 'web_search' is an integrated feature of the Openrouter API,
+                        # so we don't need to manually call a search function here.
+                        # We just need to add the tool_call to the messages and send it back.
+                        messages.append(response_message)
+                        messages.append(
+                            {
+                                "tool_call_id": tool_call.id,
+                                "role": "tool",
+                                "name": "web_search",
+                                "content": json.dumps({"search_query": response_message.tool_calls[0].function.arguments})
+                            }
+                        )
+                        # The next iteration of the loop will send this updated message history back
+                        # and allow the model to provide a response based on the "tool" output
+                        continue
+            else:
+                # No tool calls, this is the final response
+                summary = response_message.content.strip()
+                if not summary:
+                    print("Warning: The LLM returned an empty summary.", file=sys.stderr)
+                    return "No significant tech news found in the latest search."
+                return summary
 
     except openai.APIConnectionError as e:
         print(f"Failed to connect to Openrouter API: {e}", file=sys.stderr)
