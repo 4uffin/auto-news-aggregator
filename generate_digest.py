@@ -23,8 +23,8 @@ def generate_tech_news_digest():
     Intelligently searches the web for the latest tech news and generates a TL;DR summary.
     """
     messages = [
-        {"role": "system", "content": "You are a professional tech journalist. Your task is to find the most recent and significant news from top tech sources like CNET, The Verge, and TechCrunch. Summarize the key developments in a concise, plain text TL;DR format."},
-        {"role": "user", "content": "Find the latest tech news from the past 24 hours. Focus on major announcements, product releases, or industry shifts. Provide a summary with key headlines in a plain text, easy-to-read format."}
+        {"role": "system", "content": "You are an automated agent for a GitHub Actions workflow. Your ONLY task is to search the web for the latest tech news and provide a concise summary. You MUST execute this task without any user interaction or follow-up questions. NEVER ask for clarifying information. Based on your best-effort search, you will produce a summary."},
+        {"role": "user", "content": "Perform a web search for the most recent and significant tech news from the past 24 hours. Focus on major announcements, product releases, or industry shifts from top sources like CNET, The Verge, and TechCrunch. Provide a summary with key headlines in a plain text, easy-to-read, TL;DR format."}
     ]
     
     # Define the web search tool for the model to use
@@ -47,9 +47,7 @@ def generate_tech_news_digest():
                 model=MODEL,
                 messages=messages,
                 tools=tools,
-                tool_choice="auto", # Allows the model to decide whether to use the tool
-                # Set a reasonable max_tokens limit to prevent the 402 error.
-                # A TL;DR summary should not exceed this length.
+                tool_choice="auto",
                 max_tokens=1024,
                 stream=False
             )
@@ -60,7 +58,6 @@ def generate_tech_news_digest():
             if response_message.tool_calls:
                 for tool_call in response_message.tool_calls:
                     if tool_call.function.name == "web_search":
-                        # The model has decided to use the web search tool
                         print("LLM requested a web search. Executing tool call...")
                         
                         messages.append(response_message)
