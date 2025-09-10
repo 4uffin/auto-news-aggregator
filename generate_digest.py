@@ -16,7 +16,6 @@ client = openai.OpenAI(
 )
 
 # Use Gemini 2.5 Flash for a balance of performance and cost.
-# The correct model ID is "google/gemini-2.5-flash".
 MODEL = "google/gemini-2.5-flash"
 
 def generate_tech_news_digest():
@@ -49,6 +48,9 @@ def generate_tech_news_digest():
                 messages=messages,
                 tools=tools,
                 tool_choice="auto", # Allows the model to decide whether to use the tool
+                # Set a reasonable max_tokens limit to prevent the 402 error.
+                # A TL;DR summary should not exceed this length.
+                max_tokens=1024,
                 stream=False
             )
             
@@ -61,9 +63,6 @@ def generate_tech_news_digest():
                         # The model has decided to use the web search tool
                         print("LLM requested a web search. Executing tool call...")
                         
-                        # Note: The tool 'web_search' is an integrated feature of the Openrouter API,
-                        # so we don't need to manually call a search function here.
-                        # We just need to add the tool_call to the messages and send it back.
                         messages.append(response_message)
                         messages.append(
                             {
@@ -73,8 +72,6 @@ def generate_tech_news_digest():
                                 "content": json.dumps({"search_query": response_message.tool_calls[0].function.arguments})
                             }
                         )
-                        # The next iteration of the loop will send this updated message history back
-                        # and allow the model to provide a response based on the "tool" output
                         continue
             else:
                 # No tool calls, this is the final response
@@ -88,11 +85,9 @@ def generate_tech_news_digest():
         print(f"Failed to connect to Openrouter API: {e}", file=sys.stderr)
         return "An error occurred while connecting to the API."
     except openai.APIError as e:
-        # Catches other API errors like authentication, rate limits, etc.
         print(f"Openrouter API returned an error: {e}", file=sys.stderr)
         return "An API-related error occurred while fetching news."
     except Exception as e:
-        # Catches any other unexpected errors
         print(f"An unexpected error occurred during news generation: {e}", file=sys.stderr)
         return "An unexpected error occurred."
 
@@ -100,12 +95,10 @@ def generate_tech_news_digest():
 if __name__ == "__main__":
     digest = generate_tech_news_digest()
 
-    # Get the current date and time for the file and log output
     current_time = datetime.now()
     log_timestamp = current_time.strftime("%Y-%m-%d %I:%M %p")
     file_timestamp = current_time.strftime("%Y-%m-%d_%H-%M")
     
-    # Create the output directory if it doesn't exist
     output_directory = "news_digests"
     try:
         os.makedirs(output_directory, exist_ok=True)
@@ -115,12 +108,10 @@ if __name__ == "__main__":
     
     output_content = f"Tech News Digest - {log_timestamp}\n\n{digest}\n"
 
-    # Print to workflow logs
     print("\n--- Generating Tech News Digest ---")
     print(output_content)
     print("-----------------------------------")
 
-    # Write to a plain text file in the repository with a timestamped filename
     output_filename = os.path.join(output_directory, f"digest_{file_timestamp}.txt")
     try:
         with open(output_filename, "w", encoding="utf-8") as file:
@@ -130,6 +121,5 @@ if __name__ == "__main__":
         print(f"Error writing to file: {e}", file=sys.stderr)
         sys.exit(1)
     
-    # Check if a digest was generated before a successful exit
     if "error occurred" in digest:
         sys.exit(1)
