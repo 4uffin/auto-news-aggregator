@@ -15,8 +15,9 @@ client = openai.OpenAI(
     api_key=OPENROUTER_API_KEY,
 )
 
-# Use a model that supports tool calling.
-MODEL = "mistralai/mixtral-8x7b-instruct-v0.1"
+# Use Gemini 2.5 Flash for a balance of performance and cost.
+# The correct model ID is "google/gemini-2.5-flash".
+MODEL = "google/gemini-2.5-flash"
 
 def generate_tech_news_digest():
     """
