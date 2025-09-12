@@ -1,0 +1,9 @@
+Tech News Digest - 2025-09-12 12:20 PM
+
+The latest tech news from the past 24 hours includes:
+
+*   **Apple's WWDC 2024:** Apple announced Apple Intelligence, its new AI system, along with updates to iOS 18, iPadOS 18, and macOS Sequoia. Key features include Genmoji, AI-powered writing tools, and improved Siri.
+*   **Starlink's Mini Dish:** SpaceX revealed the Starlink Mini, a portable and more affordable satellite internet dish, aiming to expand access to remote areas.
+*   **Google's Pixel Fold 2 Rumors:** Leaks suggest that Google's next foldable phone, potentially named Pixel Fold 2 or Pixel 9 Pro Fold, might skip the Tensor G3 chip and go directly to the Tensor G4, indicating a later release than expected.
+*   **Microsoft's Xbox Games Showcase and Black Ops 6:** Microsoft's annual Xbox Games Showcase featured trailers and announcements for new games, including the official reveal of Call of Duty: Black Ops 6, set to launch on Game Pass.
+*   **Nvidia's Market Cap indirectly surpassing Apple:** Nvidia briefly surpassed Apple in market capitalization, highlighting its significant growth due to the AI boom and strong demand for its GPUs.
