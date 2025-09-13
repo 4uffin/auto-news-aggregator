@@ -1,0 +1,9 @@
+Tech News Digest - 2025-09-13 12:44 AM
+
+Here's a TL;DR of the most recent tech news:
+
+*   **Google's AI Updates:** Google I/O brought a wave of AI announcements, including new Gemini models, enhanced AI in Workspace apps, and Project Astra, a multimodal AI agent.
+*   **OpenAI's GPT-4o:** OpenAI unveiled GPT-4o, a new flagship model offering improved voice and vision capabilities with real-time conversational features, making it significantly faster and more expressive.
+*   **Apple's WWDC Teasers:** Apple is gearing up for WWDC, with rumors pointing to significant AI integration across iOS 18, macOS, and other platforms, potentially featuring on-device AI and partnerships with ChatGPT.
+*   **Microsoft Build Conference:** Microsoft is expected to announce new AI-powered features for Windows, Azure, and their developer tools at their upcoming Build conference, further integrating Copilot into their ecosystem.
+*   **Intel and Qualcomm Chip Competition:** The battle for AI PC dominance is heating up, with Intel launching new Lunar Lake chips and Qualcomm pushing its Snapdragon X Elite, both vying for performance and efficiency in the next generation of laptops.
