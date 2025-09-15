@@ -24,7 +24,7 @@ def generate_tech_news_digest():
     """
     messages = [
         {"role": "system", "content": "You are an automated agent for a GitHub Actions workflow. Your ONLY task is to search the web for the latest tech news and provide a concise summary. You MUST execute this task without any user interaction or follow-up questions. Based on your best-effort search, you will produce a summary."},
-        {"role": "user", "content": "Perform a web search for the most recent and significant tech news from the past 24 hours. Focus on major announcements, product releases, or industry shifts from top sources like CNET, The Verge, and TechCrunch. Provide a summary with key headlines in a plain text, easy-to-read, TL;DR format."}
+        {"role": "user", "content": "1. Generate three distinct, high-quality search queries to find the most recent tech news from the past 24 hours, focusing on major announcements, product releases, or industry shifts. 2. Use a web search tool to execute these queries. 3. Synthesize the search results from top sources like CNET, The Verge, and TechCrunch. 4. Provide a summary with key headlines in a plain text, easy-to-read, TL;DR format."}
     ]
     
     tools = [
