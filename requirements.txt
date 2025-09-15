@@ -1,0 +1,14 @@
+# Tech News Digest - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# OpenAI Python client for OpenRouter API communication
+openai>=1.0.0
+
+# RSS feed parsing library
+feedparser>=6.0.0
+
+# HTTP library for web requests
+requests>=2.31.0
+
+# HTML/XML parsing for web scraping fallback
+beautifulsoup4>=4.12.0
