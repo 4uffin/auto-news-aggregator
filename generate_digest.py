@@ -215,14 +215,31 @@ def generate_tech_news_digest():
 
 Please create a well-organized TL;DR summary highlighting the most important and interesting tech news stories from today. 
 
-Format requirements:
-- Use clear headings or categories when appropriate
-- Use bullet points or short paragraphs for readability  
-- Focus on major announcements, product releases, or significant industry developments
+CRITICAL FORMATTING REQUIREMENTS:
+- Start each major section with a ## heading (like "## Apple & Mobile Tech")
+- Use proper line breaks - DO NOT put everything in one paragraph
+- Use bullet points (-) for individual news items within each section
+- Leave blank lines between sections
+- Each news item should be on its own line
 - When you mention a specific story, include its ID in brackets like [ID:X] right after the reference
+
+CONTENT REQUIREMENTS:
+- Group similar stories into logical categories
+- Focus on major announcements, product releases, or significant industry developments
 - Eliminate duplicate or very similar stories
 - Keep it concise but informative
 - Aim for 200-400 words total
+
+EXAMPLE FORMAT:
+## Apple & Mobile Tech
+
+- Apple announced new iPhone features [ID:X] with improved battery life
+- iOS updates are rolling out with enhanced security [ID:Y]
+
+## Artificial Intelligence
+
+- OpenAI released new model capabilities [ID:Z]
+- AI regulation discussions continue in Europe
 
 Remember to include the [ID:X] tags so I can create a sources section with links!"""
         }
