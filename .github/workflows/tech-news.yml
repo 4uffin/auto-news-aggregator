@@ -27,7 +27,7 @@ jobs:
     - name: 📦 Install Python dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install openai
+        pip install openai feedparser requests beautifulsoup4
 
     - name: 🚀 Run Python script to generate digest
       env:
