@@ -356,11 +356,7 @@ pip install pytest black flake8  # Development tools
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License - Feel free to use, modify, and distribute
-```
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more information.
 
 ## 🙏 Acknowledgments & Credits
 
