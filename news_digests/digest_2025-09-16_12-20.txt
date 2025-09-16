@@ -1,0 +1,27 @@
+Tech News Digest - 2025-09-16 12:20 PM
+==================================================
+
+Here's a TL;DR summary of today's tech news:
+
+**Apple & Wearables**
+*   **New Apple Watch Reviews:** The Apple Watch Series 11 is out, with reviews suggesting it's a reliable but incremental update, while the Apple Watch SE 3 is highlighted as the better value option. The Apple Watch Ultra 3 is also noted for its satellite communication features.
+*   **Meta Smart Glasses:** Meta is set to launch new smart glasses this week, hinting at continued development in augmented reality wearables.
+
+**AI & Software**
+*   **Google's Privacy-Focused LLM:** Google has released VaultGemma, its first privacy-preserving large language model, signaling a focus on secure AI applications.
+*   **Microsoft's AI Preference:** Microsoft is reportedly favoring Anthropic over OpenAI for integration into Visual Studio Code, indicating a potential shift in its preferred AI partners.
+*   **AI in Fintech:** Y Combinator-backed Rulebase aims to provide AI co-worker solutions for the fintech industry.
+*   **AI for Spiritual Guidance:** A growing trend sees millions using AI chatbots for spiritual guidance and confession.
+
+**Industry & Business**
+*   **Nothing's AI Ambitions:** Nothing has closed a $200M Series C funding round and plans to launch "AI-native devices" next year, positioning itself as a key player in future AI hardware.
+*   **Amazon Sales Event:** Amazon announced its Prime Big Deals Day sales event for October 7th and 8th.
+*   **Internet Archive Settlement:** The Internet Archive has settled its significant legal battle with music publishers.
+
+**New Products & Innovations**
+*   **Supercal Scheduling:** Kayak's co-founder is launching Supercal, a new scheduling platform to compete with Calendly.
+*   **Geothermal Energy Efficiency:** Rodatherm Energy is working on making geothermal energy more efficient and potentially cheaper.
+
+**Miscellaneous**
+*   **TikTok Algorithm Concerns:** Questions remain about whether the US version of TikTok still utilizes the Chinese algorithm.
+*   **Northrop Grumman Spacecraft:** Northrop Grumman has unveiled a new, notably large spacecraft.
