@@ -1,0 +1,29 @@
+Tech News Digest - 2025-09-16 12:47 AM
+==================================================
+
+Here's a TL;DR summary of today's top tech news:
+
+**Major Product Launches & Updates**
+
+*   **Apple Debuts New iPhones:** Apple has unveiled its latest lineup of iPhones, with expectations of premium pricing.
+*   **Meta Leaks Smart Glasses:** A video of Meta's new "Ray-Ban Display" smart glasses has surfaced ahead of Meta Connect 2025, where more details are expected on these "Hypernova" glasses, AI, and metaverse developments.
+*   **iOS 26 Released:** Apple's free software update, iOS 26, is now available for iPhones.
+*   **Google's Privacy-Preserving LLM:** Google has released VaultGemma, its first large language model designed with privacy in mind.
+
+**Industry & Business Developments**
+
+*   **Alphabet Reaches $3 Trillion Valuation:** With no Department of Justice breakup, Google's parent company, Alphabet, has achieved a $3 trillion market capitalization.
+*   **Robinhood's Startup Fund:** Robinhood plans to launch a startup fund that will be accessible to all retail investors.
+*   **Internet Archive Settles Music Copyright Case:** The Internet Archive has reached a settlement in its significant legal battle with music publishers.
+*   **China Cites NVIDIA Antitrust Violation:** China has stated that NVIDIA's acquisition of Mellanox violated antitrust law.
+
+**Legal & Regulatory News**
+
+*   **Google's Supreme Court Challenge:** The Supreme Court is Google's final opportunity to avoid a major reckoning in its Epic Games lawsuit, scheduled for October.
+*   **TikTok Ban Deadline Approaches:** Hints of a potential deal are emerging as the deadline for the TikTok ban approaches.
+*   **New York's Age Verification Plans:** New York has detailed its plans for online age verification rules.
+
+**Other Notable Stories**
+
+*   **Cambridge Analytica Payouts:** Individuals are receiving payouts, some as low as $38.36, from the Facebook-Cambridge Analytica data scandal.
+*   **Geothermal Energy Innovation:** Rodatherm Energy is working to make geothermal energy more efficient, with questions remaining about cost-effectiveness.
