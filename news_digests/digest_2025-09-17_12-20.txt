@@ -1,0 +1,25 @@
+Tech News Digest - 2025-09-17 12:20 PM
+==================================================
+
+Here's a TL;DR summary of today's top tech news:
+
+**Apple & Mobile Tech**
+*   **iPhone 17 Series & iPhone Air:** Apple has launched the iPhone 17, with the Pro models featuring a significant redesign. The new "iPhone Air" is also making waves for its thinness and purpose-driven design.
+*   **iOS 26 Feature:** A new iOS 26 feature allows users to block spam calls, addressing a common annoyance.
+
+**Drones & Robotics**
+*   **DJI Mini 5 Pro:** DJI has officially released the Mini 5 Pro drone, notable for bringing 1-inch sensors to smaller drones and offering the longest battery life in the series to date.
+*   **Sonair's 3D Ultrasonic Sensor:** Sonair has developed a 3D ultrasonic sensor specifically designed with robotic safety in mind.
+
+**AI & Industry Trends**
+*   **AI Concerns:** A new survey reveals that US adults are worried AI will negatively impact human capabilities.
+*   **China's AI Chip Ban:** China is reportedly banning its tech companies from purchasing NVIDIA's AI chips, signaling a significant shift in the global AI hardware market.
+*   **"Hunger Strike to End AI":** A unique protest involving a hunger strike has been initiated with the goal of ending AI development.
+
+**Investments & Startups**
+*   **Google Ventures Backs Blacksmith:** Google Ventures has quickly doubled down on dev tool startup Blacksmith, investing further just four months after its seed round.
+*   **Indian Startups Soar:** India's Urban Company has seen a massive 58% surge above its IPO price, while Groww, backed by Satya Nadella, is set to become the first Indian startup to go public after a U.S.-to-India move.
+
+**Other Notable Stories**
+*   **Reddit Moderation Issues:** Reddit is facing backlash as it removes some moderators, leading to concerns about site functionality.
+*   **Space Station Supply Load:** A record supply load for the International Space Station will not reach its destination as scheduled.
