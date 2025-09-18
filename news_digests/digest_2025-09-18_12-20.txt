@@ -1,0 +1,22 @@
+Tech News Digest - 2025-09-18 12:20 PM
+==================================================
+
+Here's a TL;DR summary of today's top tech news:
+
+**Artificial Intelligence & Industry Partnerships**
+*   **Nvidia and Intel Collaborate:** Nvidia is investing a significant $5 billion into Intel to jointly develop chips for both PC and data center markets, signaling a major strategic alliance.
+*   **Reddit's AI Content Play:** Reddit is seeking a more favorable deal with Google, proposing to exchange user-generated content for AI training data.
+*   **Anthropic's AI Limitations:** White House officials are reportedly frustrated with Anthropic's restrictions on law enforcement's use of its AI, raising questions about ethical AI deployment.
+
+**Meta's VR/AR & Hardware Push**
+*   **Hyperscape for Real-World VR:** Meta unveiled Hyperscape, a new technology designed to transform real-world spaces into virtual reality environments.
+*   **New Smart Glasses Lineup:** Meta introduced several new smart glasses, including models with integrated displays and wristband controllers, and specifically the Oakley Meta Vanguard for athletes, building on their Ray-Ban Meta collaboration.
+
+**Transportation & Delivery Innovations**
+*   **Waymo's Public Transit Vision:** Waymo is exploring the integration of robotaxis into public transit systems, potentially revolutionizing urban transportation.
+*   **Uber's Drone Delivery Returns:** Uber plans to re-launch drone food delivery trials later this year, indicating a renewed interest in aerial logistics.
+*   **Tesla Door Handle Update:** Tesla is updating its controversial passenger door handles, likely addressing previous design or functionality issues.
+
+**Software & App Updates**
+*   **Bumble BFF Revamp:** Bumble's friend-finding app, Bumble BFF, has been redesigned to emphasize friend groups and community building.
+*   **iOS 26 Music App Upgrades:** Apple's Music app on iPhones will receive several enhancements with the upcoming iOS 26 update.
