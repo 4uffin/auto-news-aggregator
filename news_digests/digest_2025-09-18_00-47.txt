@@ -1,0 +1,19 @@
+Tech News Digest - 2025-09-18 12:47 AM
+==================================================
+
+Here's a TL;DR summary of today's tech news:
+
+**Meta Dominates Connect 2025 with Major VR/AR Announcements**
+
+*   **Advanced Smart Glasses:** Meta unveiled several new smart glasses. The **Ray-Ban Display glasses** (starting at $799) feature an AR display, improved camera, and better battery life, with some reviewers calling them the "best ever tried." They also introduced **Oakley Meta Vanguard glasses** designed specifically for athletes. A new neural wristband controller was also showcased, enhancing interaction.
+*   **VR/AR Integration:** Meta is pushing boundaries in virtual reality with **Hyperscape**, a new technology that allows users to turn real-world spaces into virtual environments within Quest headsets. They're also launching an all-in-one movie and TV streaming hub for Quest, aiming to make the metaverse more immersive and visually appealing.
+*   **Augmented Reality Experiences:** Reviewers who tried the new Ray-Ban Display glasses and neural band reported feeling "augmented," suggesting a significant step forward in practical AR experiences.
+
+**AI & Robotics**
+
+*   **Nvidia Challenger Raises Big:** Groq, a competitor to Nvidia in the AI chip space, has secured significant funding, reaching a $6.9 billion valuation, indicating strong investor confidence in alternative AI hardware.
+*   **Waymo Expands Robotaxi Service:** Waymo's self-driving robotaxis are expanding their operations, with Nashville being the latest city to receive the service.
+
+**Other Notable Tech**
+
+*   **Tesla Door Handle Redesign:** A Tesla executive confirmed plans to redesign door handles following reports of safety concerns.
