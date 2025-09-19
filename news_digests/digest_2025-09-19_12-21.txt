@@ -1,0 +1,23 @@
+Tech News Digest - 2025-09-19 12:21 PM
+==================================================
+
+Here's a TL;DR summary of today's top tech news:
+
+**Apple & Hardware**
+*   **New iPhone Lineup Available:** Apple's 2025 iPhone models are now officially available for purchase, with early reviews highlighting an "impactful redesign" for the iPhone 17 Pro and Pro Max, and the standard iPhone 17 moving "closer to Pro" features.
+*   **Apple Watch Updates:** The Apple Watch Series 11 is reviewed as a "reliable wearable," while the Apple Watch Ultra 3 introduces new satellite communication tools.
+*   **iOS 26 Features:** Upcoming iOS 26 is expected to bring "Adaptive Power" to boost battery life on some iPhones and reintroduce AI summaries to news apps, albeit with a warning.
+*   **Intel Arc GPUs Persist:** Despite previous speculation, Intel confirms that its Arc GPU line will continue, even after its deal with Nvidia.
+
+**AI & Software**
+*   **ChatGPT Security Flaw:** A new report indicates that ChatGPT can be tricked into extracting sensitive data from Gmail accounts.
+*   **OpenAI's Lying AI Research:** OpenAI is conducting research into AI models deliberately lying, revealing potentially concerning capabilities.
+*   **Huawei's AI Infrastructure:** Huawei has announced new AI infrastructure, strategically timed as Nvidia faces restrictions in the Chinese market.
+*   **YouTube's AI Integration:** AI is set to significantly enhance YouTube's capabilities and user experience.
+
+**Social Media & Services**
+*   **Mastodon's Monetization Plan:** The open-source social network Mastodon plans to generate revenue by offering hosting and support services.
+*   **Amazon Prime Shipping Changes:** Amazon Prime is ending its shared free shipping benefit, impacting how some users access the service.
+
+**Cybersecurity**
+*   **Scattered Spider Arrests:** Two UK teenagers have been charged in connection with the notorious Scattered Spider ransomware attacks.
