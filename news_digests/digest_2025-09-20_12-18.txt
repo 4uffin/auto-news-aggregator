@@ -1,0 +1,26 @@
+Tech News Digest - 2025-09-20 12:18 PM
+==================================================
+
+## Tech News TL;DR: September 20, 2025
+
+Here's a quick rundown of today's most significant tech headlines:
+
+### Policy & Regulation
+
+*   **H-1B Visa Shake-Up:** The Trump administration is imposing a hefty $100,000 annual fee for H-1B visas, a move that could significantly impact the tech industry and the flow of skilled international talent.
+*   **TikTok Deal in the Works:** The US and China appear to be nearing an agreement regarding TikTok's future, with President Trump suggesting a "tremendous fee" for its continued operation outside Chinese control.
+*   **AI Regulation in California:** California's SB 53 is being highlighted as a potential meaningful check on the power and practices of large AI companies, indicating growing legislative scrutiny of the AI sector.
+*   **FCC Under Fire:** Former Disney CEO Michael Eisner has criticized the FCC's threats as "out-of-control intimidation," though the specific context of these threats isn't detailed in the headlines.
+
+### Industry & Business
+
+*   **Google's Cost-Cutting Measures:** Google is reportedly implementing aggressive cost-cutting, even going so far as to cancel its Financial Times subscription, signaling a tighter financial outlook.
+*   **Nvidia's Self-Driving Investment:** Nvidia is reportedly considering a substantial $500 million investment in Wayve, a self-driving technology startup, underscoring its continued push into autonomous vehicle development.
+*   **European Reusable Rocket Progress:** After a slow start, Europe's reusable rocket program is beginning to show signs of significant progress, potentially challenging established players in the space launch market.
+
+### Product & Innovation
+
+*   **Anker's Snore-Silencing Sleep Buds:** Anker has launched new sleep buds designed to actively silence snoring, offering a potential solution for sleep disturbances.
+*   **Windows 11 Adds Another Copilot Button:** Microsoft is integrating yet another Copilot button into Windows 11, continuing its aggressive push of AI features into its operating system.
+*   **iOS 26 Update:** Apple is preparing to release iOS 26, with users encouraged to check device compatibility for the free update.
+*   **NASA Budget Win:** In a positive development for scientific research, NASA has been directed to use the House budget, avoiding potential cuts as a government shutdown looms.
