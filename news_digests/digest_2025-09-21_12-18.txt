@@ -1,0 +1,26 @@
+Tech News Digest - 2025-09-21 12:18 PM
+==================================================
+
+Here's a TL;DR summary of today's top tech news:
+
+### **Government & Policy**
+
+*   **H-1B Visa Shake-Up:** The Trump administration has announced a drastic increase in H-1B visa fees to $100,000, a move that could significantly impact the tech industry's ability to hire skilled foreign workers. Major tech companies like Amazon, Google, and Microsoft are reportedly warning their H-1B employees to remain in the US due to these changes.
+*   **TikTok Deal Progress:** The US and China are reportedly nearing an agreement regarding TikTok's future, with the White House providing more details on the potential deal.
+
+### **Product & Software Updates**
+
+*   **Apple's Latest:** Engadget's review recap covers the new iPhone 17 lineup, AirPods Pro 3 (already on sale), and Apple Watch Series 11. iOS 26 introduces new features like polls in Messages for planning activities.
+*   **YouTube Creator Tools:** "Made on YouTube" brought announcements of updates to Studio, YouTube Live, and new generative AI tools for creators.
+*   **xAI's Grok 4:** Elon Musk's xAI has launched a faster and more cost-effective version of its Grok 4 AI model.
+*   **Enhanced Smart Glasses:** The "best smart glasses" have received an update, indicating continued development in the wearable tech space.
+
+### **Industry & Business**
+
+*   **Gaming Console Evolution:** PlayStation and Xbox are increasingly moving beyond their traditional "station or box" hardware focus, suggesting a shift towards broader ecosystems and services.
+*   **Microsoft Security Vulnerabilities:** Critical vulnerabilities were discovered in Microsoft's Entra ID, which could have led to widespread security breaches.
+
+### **Other Noteworthy**
+
+*   **NASA Budget Win:** NASA secured a budget win, with Congress directing them to use the House budget despite looming shutdown threats, a positive sign for scientific research.
+*   **Europe's Reusable Rocket:** After a slow start, Europe's reusable rocket program is showing promising signs of progress.
