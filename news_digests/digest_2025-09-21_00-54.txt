@@ -1,0 +1,27 @@
+Tech News Digest - 2025-09-21 12:54 AM
+==================================================
+
+Here's a TL;DR summary of today's top tech news:
+
+**Government & Policy**
+
+*   **H-1B Visa Shake-Up:** The Trump administration has announced a significant increase in H-1B visa fees to $100,000, a move expected to impact tech companies and skilled workers. Major tech giants like Amazon, Google, and Microsoft are reportedly warning their H-1B employees to return to the US.
+*   **TikTok Deal Progress:** The US and China are reportedly nearing an agreement regarding TikTok's future, with the White House providing more details on potential terms.
+*   **NASA Funding:** NASA received a boost as Congress directed the agency to use the House budget, potentially averting a shutdown-related impact on science.
+
+**Product & Company News**
+
+*   **Apple Deals:** Apple's new AirPods Pro 3 are already available at a discount. The new "wafer-thin" iPhone Air is also highlighted for its surprising durability.
+*   **xAI Grok Update:** Elon Musk's xAI has launched a faster and more cost-effective version of its Grok 4 AI model.
+*   **YouTube Creator Tools:** Google announced new updates for YouTube Studio, YouTube Live, and introduced new generative AI tools for creators at its "Made on YouTube" event.
+*   **Amazon Prime Perk:** Prime members can now access three months of Kindle Unlimited for free.
+
+**Security & Industry Concerns**
+
+*   **Microsoft Entra ID Vulnerabilities:** Significant vulnerabilities were discovered in Microsoft's Entra ID (formerly Azure Active Directory) that could have led to catastrophic security breaches.
+*   **EPA Research Halt:** Reports indicate that EPA scientists were ordered to stop publishing research papers, raising concerns about scientific independence.
+
+**Other Interesting Developments**
+
+*   **Europe's Reusable Rocket:** After a slow start, Europe's reusable rocket program is showing promising signs of progress.
+*   **Subnautica 2 Lawsuit:** The ongoing legal battle surrounding *Subnautica 2* has taken an unexpected and bizarre turn.
