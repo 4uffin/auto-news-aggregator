@@ -1,0 +1,28 @@
+Tech News Digest - 2025-09-22 12:21 PM
+==================================================
+
+Here's a TL;DR summary of today's tech news:
+
+**Apple & Mobile Tech**
+*   **iPhone 17 Pro Scratch Concerns:** Reports indicate that some iPhone 17 Pro models are susceptible to easily visible scratches, raising durability questions for future users.
+*   **Foldable iPhone Rumors:** Speculation suggests Apple's foldable iPhone might feature a design resembling two iPhone Airs joined together.
+*   **iOS 26 Parental Controls:** The upcoming iOS 26 update will introduce enhanced parental controls for managing children's screen time.
+
+**AI & Emerging Technologies**
+*   **Fusion Energy Breakthrough:** Commonwealth Fusion Systems has secured a significant $1 billion+ power deal for its future fusion reactor, signaling major progress in clean energy.
+*   **AI Agent Training:** Silicon Valley is heavily investing in "environments" designed to train AI agents, indicating a focus on advanced AI development.
+
+**Software & Security**
+*   **Windows 11 Video Wallpapers:** Windows 11 is set to receive a new feature allowing users to set video wallpapers.
+*   **Microsoft Entra ID Vulnerabilities:** Critical vulnerabilities were discovered in Microsoft's Entra ID, which could have led to catastrophic security breaches.
+
+**Space & Exploration**
+*   **NASA's VIPER Rover Resurrected:** NASA is bringing back its VIPER moon rover mission, now slated for a 2027 launch with Blue Origin.
+*   **Starship Flight Path:** SpaceX's Starship will soon fly over towns and cities, though it will avoid major population centers.
+*   **Europe's Reusable Rocket Progress:** After a slow start, Europe's reusable rocket program is showing promising signs of development.
+*   **Mars Life Evidence:** NASA has confirmed evidence of ancient life on Mars, with further details emerging.
+
+**Business & Industry**
+*   **Tide Becomes Unicorn:** UK fintech Tide, powered by India's small businesses, has achieved unicorn status with TPG backing.
+*   **VC Hiring Trends:** While VCs still hire MBAs, there's a growing demand for other specialized experience within venture capital firms.
+*   **TikTok Deal Speculation:** Donald Trump has suggested Lachlan and Rupert Murdoch might invest in a potential TikTok deal.
