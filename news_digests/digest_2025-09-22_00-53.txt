@@ -1,0 +1,29 @@
+Tech News Digest - 2025-09-22 12:53 AM
+==================================================
+
+Here's a TL;DR summary of today's top tech news:
+
+**Apple Rumors & Products:**
+*   **Foldable iPhone & MacBook:** Speculation continues about a foldable iPhone, potentially resembling two "iPhone Airs" joined together. Separately, rumors persist about a touchscreen MacBook.
+*   **iPhone Air Repairability:** iFixit's teardown suggests the new iPhone Air maintains good repairability despite its thin design. However, some iPhone 17 models are reportedly prone to significant scratching.
+
+**AI & Robotics:**
+*   **AI Agent Training:** Silicon Valley is heavily investing in "environments" designed to train AI agents.
+*   **Robotaxi Developments:** The competition in the robotaxi sector is intensifying, with two key battlegrounds emerging.
+*   **NASA's VIPER Rover:** NASA is reviving its VIPER moon rover mission, now slated for a 2027 launch with Blue Origin.
+
+**Industry & Business:**
+*   **Amazon Prime Lawsuit:** Amazon faces a jury trial over allegations of illegally tricking users into paying for Prime subscriptions.
+*   **TikTok Investment:** Donald Trump has indicated that Lachlan and Rupert Murdoch might invest in a potential TikTok deal.
+*   **VC Hiring Trends:** While VCs still hire MBAs, firms are increasingly seeking candidates with diverse experience beyond traditional business degrees.
+*   **Cybersecurity Incident:** Hundreds of flights at Heathrow and other airports were delayed due to an apparent cyberattack.
+
+**Security & Space:**
+*   **Microsoft Entra ID Vulnerabilities:** Significant vulnerabilities in Microsoft's Entra ID (formerly Azure AD) were discovered, which could have had catastrophic consequences.
+*   **NASA Budget Win:** In a positive development for science, NASA has been instructed to use the House budget, easing concerns about a looming government shutdown.
+*   **European Reusable Rockets:** Europe's reusable rocket program is finally showing signs of progress after a slow start.
+*   **Starship Flight Path:** SpaceX's Starship is preparing for flights over towns and cities, though it will avoid the largest population centers.
+
+**New Products & Gadgets:**
+*   **Montblanc Digital Notepad:** Montblanc is entering the digital notepad market.
+*   **BYD Electric Hypercar:** BYD's YangWang U9 Extreme all-electric hypercar achieved a record-breaking speed of 308 mph.
