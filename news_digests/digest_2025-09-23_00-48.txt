@@ -1,0 +1,24 @@
+Tech News Digest - 2025-09-23 12:48 AM
+==================================================
+
+Here's a TL;DR summary of today's tech news:
+
+**AI & Software Developments**
+*   **Facebook Integrates AI Dating Assistant:** Facebook is enhancing its dating app with an AI assistant, aiming to improve user experience and potentially matchmaking. (TechCrunch, Engadget)
+*   **Perplexity AI Email Assistant:** Perplexity has launched an AI email assistant specifically for its Max subscribers, streamlining email management. (Engadget)
+*   **AI in Sports Management:** The Oakland Ballers baseball team is experimenting with an AI manager, raising questions about the future of AI in sports. (TechCrunch)
+*   **AI Energy Concerns Overblown?** A new report suggests that concerns about AI's energy consumption leading to an "apocalypse" might be exaggerated. (The Verge)
+
+**Product & Hardware News**
+*   **iPhone Air Unveiled:** Apple's new "iPhone Air" is praised for its thin design and improved repairability, with iFixit teardowns revealing a battery-centric internal structure. (CNET, Ars Technica)
+*   **Gaming Hardware Startup Launch:** Brynn Putnam, founder of Mirror, is set to unveil her new gaming hardware startup at TechCrunch Disrupt 2025. (TechCrunch)
+*   **Steam Deck Discount:** The LCD model of the Steam Deck is currently available with a 20% discount. (Engadget)
+*   **Stellantis Cancels Electric Gladiator:** Stellantis has scrapped plans for an electrified version of the Jeep Gladiator. (TechCrunch)
+*   **Innovative Kitchen Gadget:** A new $399 vibrating chef's knife claims to reduce cutting effort by 50%. (CNET)
+
+**Industry & Security**
+*   **Steam Game Cryptostealer:** A Steam game was removed after a cryptostealer exploit resulted in over $150,000 being stolen from users. (The Verge)
+*   **NASA's New Astronaut Class:** NASA has announced its 24th astronaut class, which includes a former SpaceX crew member. (Ars Technica)
+
+**Culture & Politics**
+*   **Jimmy Kimmel Reinstated After Backlash:** Jimmy Kimmel's show will return after Disney reinstated him following public outcry over censorship concerns. (The Verge, Ars Technica)
