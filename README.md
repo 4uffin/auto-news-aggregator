@@ -5,6 +5,7 @@
 
 # Tech News Digest 📰🤖
 
+![GitHub repo size](https://img.shields.io/github/repo-size/4uffin/auto-news-aggregator)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Automated-brightgreen)](https://github.com/features/actions)
 [![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
