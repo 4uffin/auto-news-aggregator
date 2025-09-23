@@ -1,0 +1,25 @@
+Tech News Digest - 2025-09-23 12:20 PM
+==================================================
+
+Here's a TL;DR summary of today's key tech news:
+
+**Regulatory & Industry Scrutiny**
+*   The EU is increasing its oversight of tech giants like Apple, Google, and Microsoft, specifically examining their efforts to combat online scams.
+*   US intelligence officials are expressing concern over China's rapid advancements in reusable rocket launch technology.
+
+**Product Launches & Innovations**
+*   **DJI** has unveiled its smallest action camera yet, the Osmo Nano, which features a unique "nod to record" function.
+*   **OpenAI** is expanding its affordable ChatGPT Go plan, launching it in Indonesia after its initial rollout in India.
+*   **Sila** has opened a new factory in the U.S. dedicated to producing silicon anodes, aiming to create more energy-dense batteries for electric vehicles.
+*   **Goodnotes** is enhancing its collaborative document features and AI assistant to better serve professional users.
+*   **Rocket.new**, an Indian "vibe-coding" startup, secured $15 million in funding from Accel and Salesforce Ventures.
+*   Mirror founder Brynn Putnam is set to reveal a new gaming hardware startup at TechCrunch Disrupt 2025.
+
+**Software & Services Updates**
+*   **Volvo** is promising significant software improvements for its EX90 SUV to address existing bugs.
+*   **Uber** has introduced prepaid passes designed for frequent users on specific routes.
+*   **iOS 26** includes a new feature to enhance user privacy by making digital fingerprints harder to track.
+
+**Notable Mentions**
+*   NASA has announced its 24th astronaut class, which includes a former SpaceX crew member.
+*   iFixit's teardown of the new iPhone Air reveals a device largely dominated by its battery.
