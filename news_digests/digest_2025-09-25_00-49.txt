@@ -1,0 +1,22 @@
+Tech News Digest - 2025-09-25 12:49 AM
+==================================================
+
+Here's a TL;DR summary of today's top tech news:
+
+**Google & Android Developments**
+*   **Android for PC & ChromeOS Integration:** Google is bringing Android to PCs next year and plans to merge ChromeOS with Android to enhance AI capabilities on larger screens.
+*   **Future Android Flagship Features:** Expect significant updates to Android flagship phones in 2026, likely driven by advancements like the Snapdragon X2 Elite chip, which will also bring new features to laptops.
+
+**Gaming News**
+*   **PlayStation Exclusives & Releases:** Marvel's *Wolverine* is set to launch on PS5 in Fall 2026, and *Microsoft Flight Simulator* will be available on PS5 this December. Sony also unveiled Pulse Elevate wireless speakers for gaming, arriving next year.
+*   **Nintendo's New Mobile Game:** A new *Fire Emblem* mobile game will feature an *Among Us*-style twist.
+
+**Industry & Policy**
+*   **X (formerly Twitter) in India:** An Indian court rejected X's free speech arguments, upholding the government's power to demand content takedowns.
+*   **H-1B Visa Fee Controversy:** Billionaire VC Mike Moritz criticized the new H-1B visa fee, calling it a "brutish extortion scheme."
+*   **Y Combinator's "Early Decision":** The accelerator is launching a program for students to prioritize building companies after graduation.
+*   **Data Privacy Concerns:** The social app Neon, popular on iOS, is reportedly paying users to record phone calls and selling the data to AI firms.
+
+**Other Notable Tech**
+*   **MRI Accessibility:** Chipiron is working on making MRI technology more accessible without replacing existing machines.
+*   **Battery Safety:** X-ray scans have revealed hidden risks associated with cheap batteries.
