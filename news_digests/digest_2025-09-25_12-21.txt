@@ -1,0 +1,30 @@
+Tech News Digest - 2025-09-25 12:21 PM
+==================================================
+
+Here's a TL;DR summary of today's tech news:
+
+**AI & Platforms**
+*   **Spotify Tackles AI Abuse:** Spotify is implementing new policies to address AI-generated "slop" and clone issues, including labeling AI music and filtering spam.
+*   **DeepMind's Robotic Ballet:** Google DeepMind has developed an AI system designed to coordinate manufacturing robots, potentially revolutionizing industrial automation.
+
+**Software & Services**
+*   **Microsoft's Windows 10 EU Policy:** Microsoft is being compelled to offer truly free extended security updates for Windows 10 users in Europe.
+*   **Proton Mail Redesign:** Proton Mail has launched redesigned, privacy-focused mobile apps for both iOS and Android, emphasizing speed and security.
+*   **Google Cloud Expansion:** Google Cloud is significantly expanding its presence, indicating aggressive growth in the cloud computing market.
+*   **Meta Expands Teen Accounts:** Meta is rolling out dedicated teen accounts for Facebook and Messenger globally.
+
+**Hardware & Devices**
+*   **Nothing's CMF Spinoff:** Smartphone manufacturer Nothing is spinning off its more affordable CMF brand into a separate entity.
+*   **OnePlus 15 Hinted:** Speculation suggests the OnePlus 13 will be followed directly by the OnePlus 15, skipping a number.
+*   **Xreal's AR Glasses:** Xreal's One Pro AR glasses are generating interest, positioning them as a potential competitor or alternative to Meta's smart glasses.
+
+**Gaming**
+*   **Microsoft Flight Simulator on PS5:** Microsoft Flight Simulator is coming to PlayStation 5 in December, a notable cross-platform release.
+
+**Automotive & Safety**
+*   **TuneIn & FEMA Partnership:** TuneIn is partnering with FEMA to provide real-time emergency alerts to drivers, enhancing road safety.
+*   **Ford's In-House Le Mans Program:** Ford is bringing its Le Mans racing program in-house, with plans to compete in 2027.
+
+**Miscellaneous**
+*   **Y Combinator's 'Early Decision':** Y Combinator is launching an "Early Decision" program for students, encouraging them to complete their education before building their startups.
+*   **Uber Eats Fights 'Veggie-flation':** Uber Eats is offering grocery discounts to help consumers combat rising vegetable prices.
