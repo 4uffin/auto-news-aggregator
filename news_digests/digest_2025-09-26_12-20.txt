@@ -1,0 +1,22 @@
+Tech News Digest - 2025-09-26 12:20 PM
+==================================================
+
+Here's a TL;DR summary of today's tech news:
+
+**Security & Privacy**
+*   **OnePlus SMS Vulnerability:** Many OnePlus phone users are reportedly at risk due to a significant SMS vulnerability.
+*   **UK Digital ID & Instagram Ads:** The UK is moving forward with mandatory digital ID plans. Separately, Instagram's "pay or consent" ad model, previously rejected in the EU, is now being implemented in the UK.
+*   **Indian Bank Data Exposed:** Thousands of Indian bank transfer records have been found exposed online, raising significant privacy concerns.
+
+**Hardware & Devices**
+*   **ROG Xbox Ally X Preorders:** Microsoft and Asus have opened preorders for the ROG Xbox Ally X handheld gaming device, priced at $999.
+*   **Amazon Fire TV OS Shift:** Amazon Fire TV devices are expected to transition from Android to Linux in 2025.
+*   **Autofocus Glasses Progress:** IXI's autofocus glasses are reportedly nearing reality, hinting at future advancements in vision technology.
+
+**Space & AI**
+*   **Sierra Space's Dream Chaser:** Sierra Space's Dream Chaser spaceplane is undergoing a significant reinvention following changes to its NASA contract.
+*   **Apple's Local AI:** Developers are actively utilizing Apple's local AI models with iOS 26, indicating a growing ecosystem for on-device AI.
+*   **Russian Satellite Stalking:** Russia is reportedly tracking satellites used by NATO armed forces high above the equator.
+
+**Industry & Policy**
+*   **Trump's TikTok Executive Order:** Former President Trump has signed an executive order aimed at facilitating a deal for TikTok.
