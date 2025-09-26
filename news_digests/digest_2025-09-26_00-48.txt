@@ -1,0 +1,29 @@
+Tech News Digest - 2025-09-26 12:48 AM
+==================================================
+
+Here's a TL;DR summary of today's top tech news:
+
+**Gaming & Hardware**
+
+*   **Xbox Ally X Announced:** Microsoft and Asus have opened pre-orders for the new Xbox Ally X, priced at $999.
+*   **Nintendo of America Leadership Change:** Doug Bowser, President of Nintendo of America, is retiring.
+*   **Xiaomi 17 Series Innovations:** The upcoming Xiaomi 17 series is set to feature a rear screen and a large battery, potentially offering a compelling alternative to new iPhones.
+*   **Amazon Fire TV OS Shift:** Amazon Fire TV devices are expected to transition from Android to Linux in 2025.
+
+**AI & Software**
+
+*   **Nvidia AI Voice Animation for All:** Nvidia is making its AI voice animation technology broadly accessible.
+*   **Meta's "Vibes" AI Feed:** Meta has launched "Vibes," a new short-form video feed featuring AI-generated content.
+*   **Anthropic AI Settlement:** A judge has approved a $1.5 billion settlement in the Anthropic AI piracy lawsuit.
+*   **Future Android Authenticity:** Upcoming Android phones could gain features to detect and reveal AI-generated photos, aiming to verify authenticity.
+
+**Industry & Legal**
+
+*   **TikTok Deal Progress:** President Trump signed an executive order to facilitate a deal for TikTok, aiming to resolve its potential ban.
+*   **Microsoft Cuts Cloud Services to Israeli Military:** Microsoft has ceased cloud services to an Israeli military unit over concerns regarding Palestinian surveillance.
+*   **Google Seeks Supreme Court Intervention:** Google has asked the Supreme Court to intervene in its ongoing lawsuit with Epic Games.
+*   **VPN Day of Action:** Protests are underway against potential VPN bans, with advocates urging to "Leave VPNs Alone."
+
+**Security & Privacy**
+
+*   **Neon Call-Recording App Goes Dark:** The viral call-recording app Neon has gone offline after a security flaw exposed users' phone numbers, call recordings, and transcripts.
