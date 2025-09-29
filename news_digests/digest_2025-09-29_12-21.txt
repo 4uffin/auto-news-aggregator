@@ -1,0 +1,22 @@
+Tech News Digest - 2025-09-29 12:21 PM
+==================================================
+
+Here's a TL;DR summary of today's tech news:
+
+**Artificial Intelligence & Software**
+*   **Apple's AI Ambitions:** Apple is reportedly testing an employee-only chatbot called "Veritas," believed to be an internal trial of upcoming AI upgrades for Siri.
+*   **AI in Finance:** Former Microsoft executives are launching AI agents designed to automate and streamline financial operations, aiming to move beyond traditional Excel-based methods. Separately, "Paid," an AI agent startup focused on results-based billing, secured a significant $21 million seed funding round.
+*   **AI Market Challenges:** Despite significant investment, some VCs are questioning the ease of transforming services with AI, suggesting the path may be more complex than anticipated.
+*   **Trump's AI Video:** A bizarre AI-generated video promoting a "MedBed" conspiracy theory was posted and subsequently removed by Donald Trump.
+
+**Social Media & Platforms**
+*   **Instagram's Reels Focus:** Instagram is testing a "Reels-first" user interface in India and South Korea, indicating a stronger push for its short-form video content.
+*   **X (formerly Twitter) vs. India:** X has announced it will appeal an Indian court ruling that allows for content takedown orders, highlighting ongoing tensions regarding content moderation and free speech.
+*   **Snapchat Paid Storage:** Snapchat is introducing a paid storage option for users who want to keep more "Memories."
+
+**New Products & Gadgets**
+*   **CMF by Nothing Headphones:** CMF (Nothing's sub-brand) is launching its first over-ear headphones, featuring a unique slider for bass and treble adjustments.
+*   **Telly TV Experience:** An extended review of the "free" Telly TV highlights its constant ad display, offering insights into the user experience of this ad-supported device.
+
+**Privacy & Security**
+*   **iPhone Location Tracking:** iOS 26's Maps app will reportedly track user locations, with CNET providing instructions on how to disable this feature.
