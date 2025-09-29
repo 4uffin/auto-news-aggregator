@@ -1,0 +1,28 @@
+Tech News Digest - 2025-09-29 12:51 AM
+==================================================
+
+Here's a TL;DR summary of today's tech news:
+
+**Artificial Intelligence & Big Tech**
+
+*   **Apple's AI Ambitions:** Apple is reportedly testing an employee-only chatbot called "Veritas," believed to be an internal trial for upcoming AI upgrades to Siri.
+*   **Meta's AI Safeguards:** Meta has implemented revised guardrails for its AI chatbots, specifically designed to prevent inappropriate conversations with children.
+*   **AI Infrastructure Boom:** The tech industry is seeing billion-dollar infrastructure deals, indicating a significant investment in powering the ongoing AI boom.
+*   **AI Misinformation:** A bizarre AI-generated video promoting a "MedBed" conspiracy theory was posted and then pulled by Donald Trump, highlighting concerns about AI's role in spreading misinformation.
+
+**Industry & Business**
+
+*   **Oura's IPO Prospects:** The CEO of Oura discussed a potential IPO for the company, emphasizing their "nonnegotiable" commitment to data privacy.
+*   **DJI Legal Battle:** DJI lost a lawsuit concerning its classification as a Chinese military company, a development that could have implications for its operations.
+*   **Gaming Industry Concerns:** Discussions around a potential EA buyout suggest broader troubles within the gaming industry.
+*   **Oracle's Global Reach:** Larry Ellison's ongoing efforts to expand Oracle's influence globally continue to be a significant industry storyline.
+
+**Product & Services**
+
+*   **Snapchat Paid Storage:** Snapchat has introduced a new paid storage option for users who want to save more "Memories."
+*   **M5 MacBooks Nearing Production:** Apple is reportedly close to beginning production for its next generation of MacBooks, likely featuring the M5 chip.
+*   **Telly TV Experience:** A three-month review of Telly, the free, ad-supported TV, provides insight into the user experience of this novel product.
+
+**Other Notable Stories**
+
+*   **Self-Driving Trucks Go Public:** Kodiak, a self-driving truck startup, has gone public, marking a significant step in the autonomous vehicle sector.
