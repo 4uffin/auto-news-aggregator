@@ -1,0 +1,24 @@
+Tech News Digest - 2025-09-30 12:50 AM
+==================================================
+
+Here's a TL;DR of today's top tech news:
+
+**AI & Regulation**
+*   **California Passes Landmark AI Transparency Bill:** California Governor Newsom has signed SB 53 into law, a significant bill aimed at increasing transparency in artificial intelligence.
+*   **New AI Models & Applications:** Anthropic's latest AI model reportedly maintained focus for 30 hours on complex tasks. Meanwhile, new AI tools are emerging to assist with document creation in Word and Excel, and AI recruiter "Alex" raised $17M to automate initial job interviews.
+*   **OpenAI's Social Ambitions:** OpenAI is reportedly planning to launch a TikTok-like social app alongside its Sora 2 video generation model.
+
+**Legal & Business**
+*   **Trump Settles with YouTube:** Alphabet (Google's parent company) will pay $24.5 million to settle a lawsuit brought by former President Trump concerning YouTube.
+*   **Frank Founder Sentenced:** Charlie Javice, founder of Frank, received a 7-year prison sentence for defrauding JPMorgan Chase.
+*   **EA Goes Private:** Electronic Arts is expected to undergo significant changes under its new private ownership.
+
+**Product & Hardware**
+*   **OnePlus 15 & iPhone Fix:** The OnePlus 15 is rumored to feature a "Sand Storm Edition" with enhanced durability. Separately, a fix has reportedly been released for iPhone Air users experiencing dropped calls.
+*   **Galaxy Ring Issue:** A YouTuber reported a concerning incident where a Galaxy Ring's battery swelling caused it to get stuck on his finger.
+*   **Tile Security Concern:** Tile trackers are facing scrutiny due to a lack of encryption, potentially making users vulnerable to stalking.
+
+**Other Noteworthy Stories**
+*   **Microsoft Reorganizes Windows Teams:** Microsoft is consolidating its Windows engineering teams.
+*   **Faraday Future Incident:** Faraday Future's LA headquarters experienced an explosion and vehicle fire.
+*   **Disney Subscriber Loss:** Disney reportedly lost 1.7 million paid subscribers in the week following the suspension of Jimmy Kimmel.
