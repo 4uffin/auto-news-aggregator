@@ -1,0 +1,25 @@
+Tech News Digest - 2025-10-01 12:56 AM
+==================================================
+
+Here's a TL;DR of today's top tech news:
+
+**AI & Big Tech**
+*   **Google Blocks AI Searches:** Google is reportedly preventing AI searches related to "Trump" and "dementia," raising questions about content moderation in AI.
+*   **OpenAI Criticism:** OpenAI faces backlash over its parental control features, with users demanding to be treated as adults.
+*   **AI's Energy Impact:** Research indicates that the booming AI data center industry is significantly increasing electricity costs.
+*   **Trump Deepfake:** Donald Trump has posted a vulgar deepfake of his opponents, highlighting concerns about AI misuse in politics.
+*   **Disney vs. Character.AI:** Disney has issued a cease and desist letter to Character.AI, though the specific reasons are not yet detailed.
+
+**Product Announcements & Releases**
+*   **Amazon's New Devices:** Amazon held its fall hardware event, announcing new Alexa devices including the Echo Studio and Echo Dot Max with enhanced audio. Pre-orders are now open for these and other new Alexa-enabled products.
+*   **LG 6K Display:** LG's new 32-inch 6K Thunderbolt 5 display is now available for pre-order at $2,000.
+*   **Apple M5 iPad Pro:** An M5 iPad Pro appears to be on the horizon, suggesting an imminent release.
+
+**Industry & Business**
+*   **Toyota's Startup Investment:** Toyota is investing another $1.5 billion into startups, continuing its strategy of backing emerging companies across various stages.
+*   **South Korea's Digital Security:** A monthly breach rate is raising concerns about the effectiveness of South Korea's digital defenses.
+*   **FTC vs. Sendit:** The FTC alleges that the anonymous question app Sendit illegally collected data from children and deceived them.
+*   **Starbase Policing:** SpaceX's Starbase facility has hired Cameron County to handle its street policing and jail services.
+
+**Other Noteworthy News**
+*   **Exoplanet Discovery:** Researchers have discovered a carbon-rich, moon-forming disk around a giant exoplanet.
