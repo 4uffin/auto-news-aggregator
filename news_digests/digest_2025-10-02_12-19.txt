@@ -1,0 +1,27 @@
+Tech News Digest - 2025-10-02 12:19 PM
+==================================================
+
+Here's a TL;DR summary of today's top tech news:
+
+**Mobile & Connectivity**
+*   **T-Mobile Satellite Service Expands:** T-Mobile's satellite service now supports popular apps like Google Maps, WhatsApp, and X, significantly enhancing connectivity in remote areas.
+*   **Apple Vision Pro Strategy Shift:** Apple is reportedly sidelining a lighter Vision Pro model to prioritize its smart glasses initiative, indicating a potential shift in its AR/VR roadmap.
+*   **New iPhone Ringtones:** iOS 26 will introduce new ringtones for iPhones.
+
+**AI & Industry**
+*   **Major AI Music Licensing Deals Imminent:** The music industry's biggest labels are reportedly weeks away from finalizing significant AI licensing agreements, which could reshape how AI interacts with copyrighted music.
+*   **OpenAI Faces Internal and External Challenges:** OpenAI staff are grappling with the company's social media strategy, while the company is also publicly refuting Elon Musk's claims in a lawsuit regarding iPhone/ChatGPT integration.
+*   **Instagram Denies Mic Eavesdropping:** The head of Instagram reiterated that the company does not use device microphones to listen to users, suggesting AI data collection negates the need for such methods.
+
+**Hardware & Gadgets**
+*   **HP's New Ultrawide Monitor:** HP has unveiled a new 49-inch curved ultrawide monitor featuring a convenient pop-up webcam.
+*   **Playable Lego Game Boy:** A creator has successfully made Lego's non-playable Game Boy set functional, showcasing impressive ingenuity.
+
+**Space & Logistics**
+*   **Arc Spacecraft for Rapid Delivery:** A new "Arc spacecraft" aims to revolutionize logistics by promising to deliver cargo anywhere in the world within an hour.
+*   **US Lunar Race Concerns:** Reports highlight how the United States has fallen behind China in the lunar space race and discusses strategies for catching up.
+
+**Security & Startups**
+*   **Security Compliance Funding:** Oneleet secured $33 million to innovate in the security compliance sector.
+*   **Self-Driving Trucks Raise Capital:** Einride, a self-driving truck startup, raised $100 million in funding.
+*   **Visa Issues Impact Study Abroad:** Visa crackdowns are affecting students' study-abroad plans, leading India's Leverage Edu to help reroute them.
