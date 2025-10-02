@@ -1,0 +1,32 @@
+Tech News Digest - 2025-10-02 12:47 AM
+==================================================
+
+Here's a TL;DR summary of today's tech news:
+
+**Artificial Intelligence & Software**
+
+*   **Amazon's AI for Sports:** Amazon is introducing AI-powered stats for NBA fans, offering new ways to track game data.
+*   **OpenAI Developments:** OpenAI is facing internal discussions regarding its social media strategy and is publicly refuting Elon Musk's claims in a lawsuit concerning iPhone/ChatGPT integration.
+*   **Instagram's AI & Reels Focus:** Instagram's head denies using microphones for listening, but the implication is that AI data makes it unnecessary. The platform is also testing opening directly into Reels, signaling a continued push for short-form video.
+
+**Hardware & Devices**
+
+*   **Apple's Vision Pro & Smart Glasses:** Apple is reportedly prioritizing the development of smart glasses over a lighter version of the Vision Pro, suggesting a shift in its AR/VR strategy.
+*   **Hyundai Ioniq 5 Price Cut:** Hyundai has significantly reduced the price of its Ioniq 5 for the 2026 model year, potentially boosting EV adoption.
+
+**E-commerce & Services**
+
+*   **Amazon Luna & Prime Gaming Integration:** Amazon Luna is set to absorb Prime Gaming, offering controller-free games and consolidating Amazon's gaming efforts.
+*   **Amazon's Law Enforcement Pitch:** Amazon is reportedly aggressively marketing its cloud services to law enforcement agencies.
+*   **YouTube TV & NBC Negotiations:** YouTube TV and NBC have extended their negotiation deadline, avoiding an immediate blackout of NBC channels.
+*   **Fintech Investment:** Better Tomorrow Ventures has closed a $140 million fund, indicating continued investor confidence in the fintech sector.
+
+**Industry & Business**
+
+*   **Self-Driving Trucks Funding:** Self-driving truck startup Einride has secured $100 million in funding, advancing autonomous logistics.
+*   **Ubisoft's New Subsidiary:** Ubisoft has launched a new subsidiary backed by Tencent, potentially expanding its reach in the gaming market.
+*   **Visa Crackdowns Affecting Students:** Visa restrictions are impacting students' study-abroad plans, leading to rerouting efforts by companies like Leverage Edu.
+
+**Government & Policy**
+
+*   **Trump Administration's Digital Actions:** The Trump administration has added a political banner to government websites and launched "TrumpRx," a discount portal for prescription drugs.
