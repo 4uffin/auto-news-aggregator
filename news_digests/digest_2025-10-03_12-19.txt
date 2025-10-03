@@ -1,0 +1,30 @@
+Tech News Digest - 2025-10-03 12:19 PM
+==================================================
+
+Here's a TL;DR summary of today's top tech news:
+
+**Cybersecurity & Privacy**
+*   **Japan's Beer Shortage Due to Cyberattack:** A major cyberattack is causing a shortage of Japan's most popular beer.
+*   **Apple Pulls ICEBlock App:** Apple has removed the "ICEBlock" app from its App Store.
+*   **Windows 10 Security Update Deadline:** Windows 10 users must take action to continue receiving security updates after October 14th.
+
+**AI & Software**
+*   **iOS 26 Local AI Integration:** Developers are actively leveraging Apple's local AI models within iOS 26.
+*   **Anthropic Hires New CTO:** Anthropic has appointed a new CTO with a focus on AI infrastructure development.
+*   **Google Photos Conversational Editing:** Google Photos' conversational editing feature is expanding to more Android phones.
+*   **Replit's Market Success:** After nine years, Replit has found its market niche and is looking to sustain its growth.
+
+**Hardware & Devices**
+*   **Amazon Resumes Drone Delivery:** Amazon is restarting its drone delivery service after a previous crash incident.
+*   **Blue Origin's Moon Mission Plans:** Blue Origin aims to land and reuse its next New Glenn booster for an upcoming Moon mission.
+*   **Amazon Kindle Scribe Colorsoft:** Amazon is introducing the Kindle Scribe Colorsoft, combining two ereader types.
+*   **iRobot Founder's Stance on Walking Robots:** iRobot's founder expresses a strong aversion to modern walking robots.
+
+**Gaming & Entertainment**
+*   **NBCUniversal & YouTube TV Deal:** NBCUniversal and Google have reached a multi-year agreement covering YouTube TV, Peacock, and a new sports network.
+*   **Xbox Game Pass Ultimate Price Lock:** Users can still acquire Xbox Game Pass Ultimate at its previous price.
+*   **Redbox's Piracy Lawsuit Strategy:** Redbox may be shifting its focus towards piracy lawsuits.
+
+**Industry & Policy**
+*   **DoE Cancels Clean Energy Projects:** The Department of Energy has canceled $7.5 billion in clean energy projects, primarily in blue states.
+*   **Rocket Report:** An Alpha rocket exploded on a test stand, while Europe is exploring a mini-Starship concept.
