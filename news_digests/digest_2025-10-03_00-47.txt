@@ -1,0 +1,27 @@
+Tech News Digest - 2025-10-03 12:47 AM
+==================================================
+
+Here's a TL;DR summary of today's top tech news:
+
+**Streaming & Entertainment**
+*   **NBCUniversal Expands YouTube TV Deal:** NBCUniversal has broadened its partnership with YouTube TV to include content from YouTube, Peacock, and a new sports network, indicating a significant move in streaming content distribution.
+*   **Redbox Eyes Piracy Lawsuits:** Redbox appears to be shifting its strategy, potentially focusing on piracy lawsuits as a new revenue stream.
+*   **HBO Max & Instagram Updates:** HBO Max continues to offer a strong movie selection, while Instagram's Adam Mosseri reiterates that the app does not use your phone's microphone to listen in.
+
+**AI & Software**
+*   **OpenAI's Sora Soars:** OpenAI's Sora has quickly climbed to the No. 3 spot on the US App Store, showcasing strong user adoption for the AI.
+*   **Anthropic Hires New CTO:** Anthropic has brought on a new CTO with a specific focus on AI infrastructure, signaling a push to strengthen its core AI capabilities.
+*   **YouTubers Diversify Revenue:** Many YouTubers are moving away from sole reliance on ad revenue, exploring alternative income streams to sustain their content creation.
+
+**Hardware & Devices**
+*   **Samsung Galaxy Watch Glitch:** Users are reporting a peculiar glitch where their Samsung Galaxy Watches are consistently showing perfect 99 sleep scores, raising questions about accuracy.
+*   **Xbox Game Pass Ultimate Pricing:** Despite recent price changes, users can still acquire Xbox Game Pass Ultimate at the old price by purchasing pre-paid codes.
+
+**Industry & Business**
+*   **Amazon Resumes Drone Delivery:** Amazon is set to restart its drone delivery service after a previous crash in Arizona, indicating continued investment in the technology.
+*   **Shein Opens Physical Stores:** Online fast-fashion giant Shein is expanding into brick-and-mortar retail with the opening of its first physical stores.
+*   **Strava Sues Garmin:** Fitness tracking app Strava has filed a patent infringement lawsuit against Garmin, highlighting ongoing intellectual property disputes in the tech industry.
+
+**Space & Robotics**
+*   **Blue Origin's Reusability Goal:** Blue Origin aims to land its next New Glenn booster and then reuse it for a Moon mission, a critical step towards more sustainable space travel.
+*   **iRobot Founder's Caution:** The founder of iRobot expresses a strong aversion to today's walking robots, offering a unique perspective on the current state of robotics.
