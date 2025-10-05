@@ -1,0 +1,26 @@
+Tech News Digest - 2025-10-05 12:17 PM
+==================================================
+
+Here's a TL;DR summary of today's top tech news:
+
+**AI & Industry Shifts**
+*   **AI Dominates VC Funding:** Venture Capitalists are heavily prioritizing AI startups, making it difficult for non-AI companies to secure funding.
+*   **OpenAI Acquires Investing App:** OpenAI has acquired an AI-powered personal investing application, signaling its expansion into new financial sectors.
+*   **Anker's Eufy AI Training Controversy:** Anker offered Eufy camera owners $2 per video for AI training, raising privacy concerns.
+*   **Google's Smart Home AI:** Google has released new 2K-resolution Nest Cameras and integrated Gemini AI for smart home functionalities.
+
+**Cybersecurity & Privacy**
+*   **South Korea's Digital Defense Doubts:** Frequent data breaches are raising serious questions about the effectiveness of South Korea's digital security measures.
+*   **ICE Social Media Surveillance:** The Pentagon is seeking to establish a 24/7 social media surveillance team, raising privacy concerns.
+
+**Policy & Regulation**
+*   **California Unionizes Gig Workers:** California has passed a bill granting Uber and Lyft drivers the right to unionize, a significant win for gig economy workers.
+*   **Government-Startup Relations:** The relationship between startups and the U.S. government is becoming increasingly complex.
+
+**Product & Hardware**
+*   **Ecovacs Robovacs at New Lows:** Ecovacs' Deebot X8 and X9 Pro Omni robot vacuums are now available at their lowest prices yet.
+*   **"Kids" Kindle Paperwhite Deal:** A "kids" version of the Kindle Paperwhite is being highlighted as a better deal than the adult model.
+*   **ULA's Vulcan Rocket Costs Rise:** Figures from a Pentagon contract indicate that United Launch Alliance's Vulcan rocket is becoming more expensive.
+
+**Space & Environment**
+*   **Space Junk Mitigation:** Removing just 50 specific objects from orbit could significantly reduce the danger posed by space junk.
