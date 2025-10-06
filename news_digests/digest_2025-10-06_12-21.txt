@@ -1,0 +1,22 @@
+Tech News Digest - 2025-10-06 12:21 PM
+==================================================
+
+Here's a TL;DR summary of today's key tech news:
+
+**AI & Chips**
+*   **AMD Challenges Nvidia:** AMD is partnering with OpenAI to directly compete with Nvidia's dominance in the AI chip market.
+*   **Sora's AI Video Control:** OpenAI's Sora is enhancing user control over AI-generated videos, particularly for creating AI-powered self-representations.
+*   **Altman & Ive's Secret Device:** Sam Altman and Jony Ive's mysterious new device is confirmed not to be an "AI girlfriend" type product, hinting at a more practical or innovative AI application.
+*   **California's AI Safety Law:** California has enacted a new AI safety law, demonstrating that regulation and innovation in the AI space can coexist without conflict.
+
+**Industry & Business**
+*   **Firefly's Defense Expansion:** Firefly Aerospace is bolstering its defense sector ambitions with an $855 million acquisition of SciTec.
+*   **Heidi Health Funding:** Digital health platform Heidi Health secured $65 million in Series B funding, led by Steve Cohen’s Point72.
+*   **Rabbit's Comeback:** After initial struggles, AI hardware company Rabbit is reportedly planning a "redemption arc."
+
+**Security & Surveillance**
+*   **TikTok Threat Arrest:** A suspect has been arrested following threats made against TikTok's headquarters in Culver City.
+*   **ICE's Social Media Surveillance:** Immigration and Customs Enforcement (ICE) is looking to establish a 24/7 social media surveillance team.
+
+**Gaming & Hardware**
+*   **GPD's Steam Deck Alternative:** GPD is reportedly developing a new handheld device, potentially offering a wired alternative or competitor to the Steam Deck.
