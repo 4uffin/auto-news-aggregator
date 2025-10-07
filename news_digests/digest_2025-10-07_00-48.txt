@@ -1,0 +1,25 @@
+Tech News Digest - 2025-10-07 12:48 AM
+==================================================
+
+Here's a TL;DR of today's top tech news:
+
+**AI & OpenAI Developments**
+*   **ChatGPT's Expanding Ecosystem:** OpenAI is pushing for ChatGPT to become a universal app frontend, with new apps already live and integrations with services like Spotify and Canva. While Sam Altman states no current plans for ads in ChatGPT Pulse, he's not ruling it out. OpenAI is also releasing more powerful models for its API, indicating a strong developer focus.
+*   **Deloitte's AI Ambitions:** Despite a recent hefty refund related to AI use, Deloitte is significantly investing in AI, signaling a major industry shift towards adoption.
+
+**Legal & Regulatory**
+*   **Google's Antitrust Woes:** The Supreme Court declined to intervene in the Epic Games vs. Google antitrust case, leaving Google's fate in the hands of a judge who reportedly prefers not to decide. This puts Google under increasing pressure regarding its app store practices.
+*   **EPA Sued Over Solar Program:** The Trump-era EPA is being sued for allegedly axing a $7 billion solar energy program, highlighting ongoing legal battles around environmental policy and renewable energy.
+
+**Microsoft & Windows**
+*   **Offline Windows 11 Installation:** Microsoft continues to address user concerns by plugging more loopholes that allowed Windows 11 installation without an online account.
+*   **Renewable Energy Investment:** Microsoft is expanding its commitment to renewable energy, purchasing another 100 MW of solar power, this time in Japan.
+
+**Industry & Product News**
+*   **Verizon CEO Change:** Verizon has appointed former PayPal chief Schulman as its new CEO, replacing Vestberg.
+*   **Lucid Motors Sales:** Lucid Motors is seeing increased sales for its Gravity model, setting a new record as a tax credit is set to expire.
+*   **Evernote's AI Integration:** Evernote has released its biggest update since 2020, heavily integrating AI features into the platform.
+
+**Other Notable Stories**
+*   **Taylor Swift AI Controversy:** Taylor Swift fans are accusing the singer of using AI in her Google scavenger hunt videos.
+*   **Wikipedia Bias Accusation:** Ted Cruz has publicly accused Wikipedia of left-wing bias.
