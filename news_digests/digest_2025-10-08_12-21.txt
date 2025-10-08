@@ -1,0 +1,27 @@
+Tech News Digest - 2025-10-08 12:21 PM
+==================================================
+
+Here's a TL;DR of today's top tech news:
+
+**Artificial Intelligence & Software**
+*   **OpenAI's Sora Faces Copyright Scrutiny:** OpenAI reportedly didn't anticipate the copyright issues surrounding its Sora text-to-video model, indicating ongoing challenges in AI content generation.
+*   **Firefox Introduces Profiles:** Mozilla is adding profiles to Firefox, allowing users to separate their browsing sessions for improved organization and privacy.
+*   **"AI" Branding Concerns:** A growing trend of basic tech being labeled "AI" is raising concerns about misleading marketing and the dilution of the term's meaning.
+
+**Hardware & Devices**
+*   **Tesla Expands Model Lineup:** Tesla has reintroduced standard-range Model 3 and Model Y vehicles to its lineup, potentially making its EVs more accessible.
+*   **HMD's "Dumb-Smart-Phone":** HMD is launching the Touch 4G, a device that blends basic phone functionality with some smartphone features, targeting a niche market.
+*   **iPhone Battery Boost:** A new "Adaptive Power" feature in iOS 26 is expected to significantly improve iPhone battery life.
+
+**Fintech & Business**
+*   **Charles Schwab Backs Qapita:** Charles Schwab is investing in Singapore-based Qapita, positioning it as a competitor to Carta in the equity management space.
+*   **Revolut Targets Indian Banks:** Revolut plans to challenge Indian banks over what it calls "criminal" forex fees, aiming to disrupt the financial services market in India.
+*   **AMD to Fund OpenAI Chip Purchases:** Wall Street analysts suggest AMD's own stock performance will help finance OpenAI's substantial chip acquisitions, highlighting a unique financial strategy.
+*   **DOE Proposes Grant Cuts:** The Trump administration's Department of Energy is proposing significant cuts to grants for major automakers like GM and Ford, as well as numerous startups.
+
+**Science & Research**
+*   **Nobel Prize in Physics:** The 2025 Nobel Prize in Physics has been awarded for macroscale quantum tunneling, recognizing advancements in fundamental physics.
+*   **Floating Electrons on Helium:** Researchers are exploring the behavior of floating electrons on a sea of helium, a development in quantum physics.
+
+**Prime Day Deals (Ongoing)**
+*   Major retailers are continuing to offer significant discounts across various tech categories, including fitness trackers (Amazfit Active 2), streaming devices (Roku), TVs, cameras, and gaming subscriptions (Xbox Game Pass Ultimate).
