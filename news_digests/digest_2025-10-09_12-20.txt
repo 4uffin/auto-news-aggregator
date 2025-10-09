@@ -1,0 +1,29 @@
+Tech News Digest - 2025-10-09 12:20 PM
+==================================================
+
+Here's a TL;DR summary of today's top tech news:
+
+**AI & Software Developments**
+*   **Google's AI Push:** Google is expanding its "AI in the workplace" ambitions with the introduction of Gemini Enterprise and is also integrating an AI photo agent into OneDrive's new Windows app.
+*   **OpenAI Expansion:** OpenAI's more affordable ChatGPT Go plan is now available in 16 new countries across Asia.
+*   **DC Comics Rejects Generative AI:** DC Comics has taken a firm stance against generative AI, stating they will "not now, not ever" support its use.
+*   **Browser Company's Dia for Mac:** The Browser Company has made its Dia browser available on Mac without requiring an invitation.
+
+**Hardware & Devices**
+*   **Google Pixel 10 Pro Fold:** Google is reportedly working on a "thin-enough" foldable phone, the Pixel 10 Pro Fold.
+*   **Ferrari's First EV:** Ferrari's inaugural electric vehicle is slated for release next year, promising high speed, distinctive sound, and a design influenced by Jony Ive.
+*   **Meta Ray-Ban Display Tech:** The most innovative aspect of the Meta Ray-Ban Display might be its advanced glass technology.
+*   **Nintendo Switch 2 Accessories:** MicroSD Express cards, likely compatible with the upcoming Nintendo Switch 2, remain available for purchase.
+
+**Automotive & Robotics**
+*   **Tesla FSD Investigation:** Tesla's "Full Self-Driving" software is currently under investigation due to concerns about traffic safety violations.
+*   **DoorDash Robot Deliveries:** DoorDash is partnering with Serve Robotics to deploy sidewalk robots for deliveries in Los Angeles.
+
+**Industry & Regulation**
+*   **California Internet Privacy:** California has passed three new bills aimed at enhancing internet privacy for its residents.
+*   **EU Accessibility Law Support:** DevAlly, founded by Battlefield alums, has raised €2M to assist companies in complying with Europe's new accessibility legislation.
+*   **AI Stock Bubble Warning:** The Bank of England has issued a warning that the current AI stock market bubble could rival the dot-com peak of 2000.
+
+**Space & Science**
+*   **NASA Mission Saved:** One NASA science mission has been rescued from previous budget cuts, though the fate of others remains uncertain.
+*   **Stoke Space Progress:** Stoke Space continues to impress, providing further reasons to take their aerospace endeavors seriously.
