@@ -1,0 +1,24 @@
+Tech News Digest - 2025-10-10 12:21 PM
+==================================================
+
+Here's a TL;DR summary of today's tech news:
+
+**Artificial Intelligence & Software**
+*   **Microsoft's AI Push:** Copilot on Windows now integrates with Office documents and Gmail, expanding its utility. Microsoft also highlights its existing data center infrastructure as a key advantage in the AI race, contrasting with OpenAI's rapid build-out.
+*   **AI's Impact & Concerns:** A new report indicates AI is the "biggest driver" of electricity use in North America, raising energy consumption concerns. Separately, AI is being used to help appeal health insurance denials, showcasing a beneficial application. However, research also shows AI models can acquire backdoors from surprisingly few malicious documents, highlighting security vulnerabilities.
+*   **New AI Players:** Reflection AI has raised a significant $2 billion to establish an "open frontier AI lab" in the US, aiming to challenge existing leaders like DeepSeek.
+
+**Hardware & Devices**
+*   **Apple Vision Pro Expands Content:** The Vision Pro is set to host its first live "immersive" sports content, signaling an expansion of its entertainment offerings. Control, a popular game, is also coming to Vision Pro, iPhone, and iPad early next year.
+*   **Amazon Echo Criticism:** Amazon's Echo Show devices are facing criticism for being "ruined" by an influx of giant ads.
+*   **EV Development:** Ferrari has revealed details about its upcoming 1000hp electric vehicle.
+
+**Gaming & Entertainment**
+*   **Minecraft Movie Sequel:** A sequel to the upcoming Minecraft movie has been announced.
+*   **Gaming on the Go:** Remedy's *Control* is slated for release on iPhone, iPad, and Vision Pro early next year.
+*   **Retro Gaming:** There's a call for game developers to bring back cheat codes, appealing to a sense of nostalgia.
+
+**Industry & Business**
+*   **Flipkart's Financial Moves:** Flipkart's Super.money is reportedly partnering with Juspay as it expands its financial services.
+*   **Qualcomm Investigation:** Chinese regulators are investigating Qualcomm's acquisition of Autotalks.
+*   **A16z India Office Denial:** Andreessen Horowitz has denied reports of opening an office in India, labeling them "fake news."
