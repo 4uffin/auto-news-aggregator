@@ -1,0 +1,25 @@
+Tech News Digest - 2025-10-10 12:48 AM
+==================================================
+
+Here's a TL;DR summary of today's tech news:
+
+**Artificial Intelligence & Data Centers**
+*   **Microsoft's AI Infrastructure Advantage:** Microsoft CEO Satya Nadella highlighted the company's existing AI data center infrastructure, a subtle jab as OpenAI reportedly races to build its own.
+*   **New AI Lab Funding:** Reflection AI secured a substantial $2 billion in funding to establish itself as a major "open frontier AI lab" in the US, aiming to compete with existing players like DeepSeek.
+*   **AI Security Vulnerabilities:** Research indicates that AI models can be compromised with backdoors through a surprisingly small number of malicious documents (as few as 250), raising concerns about AI safety and integrity.
+
+**Product & Gaming News**
+*   **Minecraft Movie Sequel:** A sequel to the Minecraft movie is officially in the works.
+*   **Ferrari's Electric Supercar:** Ferrari has revealed details about its upcoming 1000hp electric vehicle.
+*   **Vision Pro Sports Content:** Apple's Vision Pro will soon offer its first live "immersive" sports experiences.
+*   **Samsung's Android XR Headset:** Final details regarding Samsung's Android XR headset have reportedly been confirmed, suggesting an imminent reveal.
+*   **MicroSD Express Deals:** 512GB microSD Express cards, potentially for the upcoming Switch 2, are currently available at reduced prices.
+
+**Industry & Security**
+*   **Discord Data Breach:** A data breach on Discord has affected at least 70,000 users.
+*   **Sora Copycats on App Store:** Numerous unauthorized copycat apps mimicking OpenAI's Sora video generator flooded Apple's App Store, with some still remaining.
+*   **Andreessen Horowitz Denies India Office:** Andreessen Horowitz refuted reports of opening an office in India, labeling the news as "fake."
+*   **YouTube's "Second Chance" Program:** YouTube is preparing to reintroduce banned creators through a new "second chance" program.
+
+**Miscellaneous**
+*   **Retro Computing:** A 65-year-old computer was programmed to play music, showcasing the enduring capabilities of vintage technology.
