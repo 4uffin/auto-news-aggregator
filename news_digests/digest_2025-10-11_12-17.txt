@@ -1,0 +1,25 @@
+Tech News Digest - 2025-10-11 12:17 PM
+==================================================
+
+Here's a TL;DR summary of today's top tech news:
+
+**AI & Industry Dynamics**
+*   **OpenAI Under Scrutiny:** OpenAI is facing criticism for allegedly sending police to an AI regulation advocate's home and is actively working to reduce "bias" in ChatGPT. The company's internal challenges and public relations efforts are highlighted.
+*   **Hollywood's AI Dilemma:** The entertainment industry is struggling to define its approach to artificial intelligence.
+*   **Deloitte Bets Big on AI:** Despite a reported $10 million refund, Deloitte is heavily investing in AI, signaling its confidence in the technology's future.
+*   **Salesforce CEO's Controversial Comments:** Salesforce's CEO sparked controversy by suggesting the National Guard should patrol San Francisco, reportedly stunning his own PR team.
+
+**Product & Services Updates**
+*   **Bose SoundTouch Features Removed:** Bose is discontinuing key features from its SoundTouch speaker line.
+*   **Apple Vision Pro to Stream NBA:** Apple is bringing live NBA games to its Vision Pro headset starting in 2026.
+*   **Instagram Redesign:** Instagram is testing a new layout that prioritizes Reels and direct messages.
+*   **Amazon Smart Display Ad Complaints:** Users are expressing regret over purchasing Amazon smart displays due to an increase in advertisements.
+*   **New iOS Emojis:** iOS 26 will introduce eight new emojis next year.
+
+**Business & Finance**
+*   **Navan IPO Plans:** Travel and expense management company Navan is proceeding with an IPO during a government shutdown, aiming for a $6.45 billion valuation.
+*   **Prediction Market Valuations:** Kalshi has reached a $5 billion valuation, while rival Polymarket secured a $2 billion investment from NYSE at an $8 billion valuation.
+
+**Emerging Tech & Trends**
+*   **Solid-State Battery Progress:** The development of solid-state batteries for electric vehicles is nearing a breakthrough.
+*   **Malware VPNs on the Rise:** There's an increasing trend of malware apps disguised as free VPN services.
