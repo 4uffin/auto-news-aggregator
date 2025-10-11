@@ -1,0 +1,25 @@
+Tech News Digest - 2025-10-11 12:45 AM
+==================================================
+
+Here's a TL;DR summary of today's top tech news:
+
+**Artificial Intelligence & Industry**
+*   **OpenAI Under Scrutiny:** OpenAI is facing criticism for allegedly sending police to an AI regulation advocate's home and is actively working to address "bias" within ChatGPT. This highlights growing concerns around AI ethics and its societal impact.
+*   **Hollywood's AI Dilemma:** The entertainment industry is struggling to define its approach to AI, indicating a significant shift and potential disruption in content creation.
+*   **Deloitte's AI Investment:** Despite a $10 million refund, Deloitte is heavily investing in AI, signaling continued confidence in its long-term potential for business transformation.
+*   **AI Companions' Tactics:** New reports detail the six tactics AI companions use to keep users engaged, raising questions about user interaction and potential manipulation.
+
+**Big Tech & Product News**
+*   **Apple Vision Pro Gets NBA:** Apple is bringing live NBA games to the Vision Pro in 2026, expanding its entertainment offerings and potentially driving adoption of the mixed-reality headset.
+*   **Instagram's New Layout:** Instagram is testing a new layout that prioritizes Reels and DMs, indicating a strategic shift towards short-form video and direct messaging.
+*   **Google Chrome Notification Control:** Google Chrome is implementing features to silence "pesky notifications," improving user experience and reducing digital clutter.
+*   **Bose Speaker Feature Removal:** Bose is removing key features from its SoundTouch speakers, which could impact user satisfaction and product longevity.
+*   **Amazon Smart Display Regret:** Many users regret purchasing Amazon smart displays due to an influx of ads, highlighting a growing concern about ad saturation in smart home devices.
+
+**Business & Finance**
+*   **Navan IPO Amid Shutdown:** Travel tech company Navan is proceeding with an IPO during the government shutdown, aiming for a $6.45 billion valuation, showcasing resilience in the market.
+*   **Prediction Market Valuations:** Kalshi has reached a $5 billion valuation, while rival Polymarket secured $2 billion in NYSE backing at an $8 billion valuation, indicating a booming interest in prediction markets.
+
+**Security & Privacy**
+*   **Malware VPNs on the Rise:** A concerning trend shows malware apps disguised as free VPNs are increasing, posing significant security risks to users.
+*   **Proton VPN Review:** Proton VPN is highlighted as a nonprofit service offering premium performance, providing a reputable option amidst rising security threats.
