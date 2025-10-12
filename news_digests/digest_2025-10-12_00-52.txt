@@ -1,0 +1,22 @@
+Tech News Digest - 2025-10-12 12:52 AM
+==================================================
+
+Here's a TL;DR summary of today's top tech news:
+
+**Apple News**
+*   **Clips App Discontinued:** Apple is officially ending support for its Clips video-editing app, a move that has been widely reported across multiple tech outlets.
+*   **Bug Bounty Increase:** Apple has significantly increased its bug bounty program, now offering up to $2 million for major exploit discoveries, signaling a strong focus on security.
+
+**AI & Industry Shifts**
+*   **Meta Hires AI Talent:** Andrew Tulloch, co-founder of Thinking Machines Lab, is joining Meta, indicating continued talent acquisition in the competitive AI space.
+*   **Enterprise AI Adoption:** Enterprises are increasingly investing in AI solutions, highlighting a growing trend in business technology.
+*   **OpenAI Data Retention:** OpenAI is no longer required to preserve all of its ChatGPT data, though some exceptions apply, which could have implications for data privacy and research.
+
+**Product & Hardware**
+*   **Chevrolet Bolt Returns:** The popular Chevrolet Bolt EV is making a comeback, albeit for a "limited run," which will be good news for fans of the affordable electric vehicle.
+*   **Windows 10 Support Extension:** While Windows 10 support officially ends on October 14th, users can get an additional year of free updates through a specific method.
+*   **Anbernic's DS Clone:** A new Anbernic handheld device, designed as a modern take on the Nintendo DS, is available at a lower price point than the original.
+
+**Other Notable Stories**
+*   **Social Media Concerns:** Prince Harry and Meghan Markle have spoken out against the harmful effects of social media on youth, echoing growing societal concerns.
+*   **Marvel TV Announcements:** New details regarding upcoming Marvel TV shows like *X-Men '97* and *VisionQuest* were revealed at NYCC 2025.
