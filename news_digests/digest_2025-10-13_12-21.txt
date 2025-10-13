@@ -1,0 +1,22 @@
+Tech News Digest - 2025-10-13 12:21 PM
+==================================================
+
+Here's a TL;DR summary of today's top tech news:
+
+**Artificial Intelligence & Software:**
+*   **Slackbot Gets an AI Upgrade:** Slack is integrating AI into its Slackbot, transforming it into a more capable AI assistant.
+*   **Salesforce Expands AI Offerings:** Salesforce announced Agentforce 360, signaling increased competition in the enterprise AI sector.
+*   **Google Photos AI Editing:** Google Photos is introducing conversational editing, allowing users to make professional-level edits using voice commands.
+
+**Hardware & Connectivity:**
+*   **Wi-Fi 8 Prototype Demonstrated:** The first prototype connection for Wi-Fi 8 has been successfully demonstrated, hinting at future wireless advancements.
+*   **Anduril's New MR Headset:** Palmer Luckey is returning to his VR roots with Anduril's new EagleEye mixed reality helmet.
+*   **Solid-State Battery Progress:** The tech world is closely watching the development of solid-state batteries for electric vehicles, with progress being made.
+
+**Industry & Security:**
+*   **Apple Boosts Bug Bounty:** Apple has significantly increased its reward for discovering major exploits, now offering up to $2 million.
+*   **SpaceX Starship Test:** SpaceX is preparing for the 11th flight test of its Starship rocket on Monday.
+
+**Other Noteworthy:**
+*   **Strava IPO Plans:** Strava is reportedly considering an IPO, as fitness apps gain popularity, particularly among Gen Z.
+*   **Online Safety for Seniors:** The ZoraSafe app, designed to protect older individuals online, will be featured at TechCrunch Disrupt 2025.
