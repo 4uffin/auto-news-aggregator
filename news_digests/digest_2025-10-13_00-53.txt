@@ -1,0 +1,27 @@
+Tech News Digest - 2025-10-13 12:53 AM
+==================================================
+
+Here's a TL;DR summary of today's tech news:
+
+**Apple News**
+*   **Increased Bug Bounty:** Apple is significantly increasing its reward for discovering major exploits, now offering up to $2 million, indicating a strong focus on security.
+*   **M5 Chip Debut:** The first products featuring Apple's new M5 chip are expected to be unveiled this week, signaling a new generation of Apple hardware.
+*   **App Discontinuation:** Apple is winding down its Clips video-editing app, suggesting a shift in its creative software strategy.
+*   **Legal Challenges:** Apple faces another class-action lawsuit alleging copyright infringement.
+
+**Space & AI**
+*   **Starship Flight Test:** SpaceX is preparing for the 11th flight test of its Starship rocket, a crucial step in its ambitious space exploration plans.
+*   **Nvidia's AI Investments:** Nvidia continues to expand its influence in the AI sector through strategic investments in various startups.
+*   **AI Safety for Seniors:** The ZoraSafe app, designed to protect older individuals online, will be presented at TechCrunch Disrupt 2025.
+
+**Gaming & Entertainment**
+*   **NYCC Announcements:** New York Comic Con brought news of Marvel's upcoming show slate and a trailer for the new Starfleet Academy series.
+*   **Avatar Fighting Game:** An Avatar-themed fighting game is slated for release in summer 2026.
+
+**Industry & Regulatory**
+*   **Elon Musk vs. Regulators:** The ongoing tension between Elon Musk and regulatory bodies continues to be a prominent theme in the tech world.
+*   **Solid-State Batteries:** Research continues into the viability and timeline for solid-state batteries in electric vehicles, a potential game-changer for the EV industry.
+
+**Miscellaneous**
+*   **BlackBerry Messenger's Legacy:** A look back at how BlackBerry Messenger revolutionized mobile texting.
+*   **AI Prank Concerns:** Police are urging kids to stop a prank involving an "AI homeless man," highlighting potential misuse of AI.
