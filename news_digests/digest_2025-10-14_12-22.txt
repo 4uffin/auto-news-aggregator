@@ -1,0 +1,22 @@
+Tech News Digest - 2025-10-14 12:22 PM
+==================================================
+
+Here's a TL;DR summary of today's top tech news:
+
+**Artificial Intelligence & Hardware**
+*   **Nvidia's Personal AI Supercomputer:** Nvidia is launching its "personal AI supercomputer," the DGX Spark AI developer PC, for $3,999, with sales starting tomorrow, October 15th.
+*   **Google's AI Investment & Tools:** Google is investing $15 billion in an Indian AI infrastructure hub and plans to integrate its "Photoshop-killer" AI model into Search, Photos, and NotebookLM.
+*   **Smart Ring Funding:** Oura, the smart ring maker, has secured a significant $900 million investment from Fidelity.
+
+**Social Media & Platforms**
+*   **Instagram's Teen Account Changes:** Instagram is implementing new "PG-13" default settings for all teen accounts, making them more restrictive and adding further parental controls.
+*   **Facebook's Return to Job Listings:** Facebook is reintroducing job listing features to its platform.
+
+**Space & Robotics**
+*   **Starship V2 Era Concludes:** SpaceX has concluded the Starship V2 program, having achieved its testing goals, and is now transitioning to the V3 iteration of the mega-rocket.
+*   **Drone Delivery Innovation:** India's Airbound has raised $8.65 million to develop rocket-like drones for ultra-low-cost deliveries.
+
+**Industry & Security**
+*   **TiVo Exits DVR Market:** TiVo has sold its last DVR, marking the end of an era for the pioneering recording device.
+*   **Android 2FA Vulnerability:** A new vulnerability has been identified that allows hackers to steal 2FA codes and private messages from Android phones.
+*   **Windows 10 End of Life:** The end of support for Windows 10 is approaching, prompting users to consider upgrades.
