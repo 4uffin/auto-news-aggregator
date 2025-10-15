@@ -1,0 +1,25 @@
+Tech News Digest - 2025-10-15 12:22 PM
+==================================================
+
+Here's a TL;DR of today's top tech news:
+
+**Artificial Intelligence & Software**
+*   **OpenAI's Ambitious Goal:** OpenAI is reportedly aiming to turn its $13 billion investment into $1 trillion within five years, signaling aggressive growth plans.
+*   **Google Gemini Enhancements:** Google's AI assistant, Gemini, will soon be able to schedule meetings directly from Gmail, streamlining productivity.
+*   **AI in Creative Tools:** VSCO is integrating AI editing features and RAW file support, enhancing its photo editing capabilities.
+*   **AI-Powered Ads:** DirecTV plans to introduce AI-generated ads featuring user faces on its screensavers by 2026.
+*   **Japan's AI Concerns:** Japan has urged OpenAI to avoid infringing on copyrighted manga and anime content, highlighting growing intellectual property concerns with AI.
+
+**Hardware & Devices**
+*   **Samsung's XR Headset:** Samsung is set to officially unveil its "Moohan" Android XR headset at a Galaxy event on October 21st, entering the mixed reality space.
+*   **Apple TV Rebranding:** An Apple executive confirmed the decision to rebrand Apple TV, suggesting a strategic shift for the platform.
+
+**Autonomous Vehicles**
+*   **Waymo Expands to London:** Waymo is bringing its robotaxi service to London, with plans to launch in 2026, marking a significant international expansion for the self-driving company.
+
+**Industry & Business**
+*   **Coinbase Invests in India:** Coinbase has increased its investment in India's CoinDCX, valuing the exchange at $2.45 billion, indicating continued interest in the Indian crypto market.
+*   **Stellantis' US Investment:** Stellantis' $13 billion US investment plan will reportedly de-emphasize electric vehicles, suggesting a shift in strategy for the automaker.
+
+**Other Notable News**
+*   **Windows 10 Support:** While official support for Windows 10 has ended, users can still get an extra year of free updates.
