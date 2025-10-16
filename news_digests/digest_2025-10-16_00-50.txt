@@ -1,0 +1,29 @@
+Tech News Digest - 2025-10-16 12:50 AM
+==================================================
+
+Here's a TL;DR of today's top tech news:
+
+### Artificial Intelligence & Software
+*   **Google's AI Video Generation Advances:** Google's Veo AI video generator is getting significant upgrades, including better editing capabilities, more audio options, and improved generation from images.
+*   **AI in Military & Advertising:** The US Army is exploring AI to enhance decision-making, while DirecTV plans to use AI to generate personalized TV ads featuring customers' own faces.
+*   **Spotify's "SongDNA":** Spotify is reportedly developing a "SongDNA" feature to highlight the creators and contributors behind your favorite music.
+
+### Hardware & Devices
+*   **New MacBook Pro & iPad Pro Preorders:** Preorders are now open for the new M5 MacBook Pro and iPad Pro models.
+*   **Motorola's Thin Phone:** Motorola is joining the trend of ultra-thin smartphones with its new X70 Air model.
+*   **Razer's 4K Webcams:** Razer has launched new Kiyo V2 webcams offering 4K streaming with HDR.
+*   **Apple & PS VR2 Controllers:** Apple will begin selling PS VR2 Sense controllers separately for $250 next month.
+
+### Internet & Connectivity
+*   **Starlink's Gigabit Speeds:** SpaceX's new V3 Starlink satellites are set to deliver gigabit internet speeds for the first time.
+*   **F5 Network Breach:** A nation-state actor has reportedly compromised F5's network, impacting thousands of customers.
+
+### Industry & Business
+*   **Electric Aircraft IPO:** Beta Technologies, an electric aircraft startup, is seeking to raise $825 million in an IPO.
+*   **Apple's Renewable Energy Expansion:** Apple is adding 650 megawatts of renewable energy in Europe, with further expansion planned for China.
+*   **Seoul Considers Google/Apple Maps:** Seoul is weighing approval for high-resolution map requests from Google and Apple.
+*   **PayPal Stablecoin Glitch:** PayPal's blockchain partner accidentally minted an astonishing $300 trillion in stablecoins due to an error.
+
+### Other Noteworthy Stories
+*   **NASA's Orion Rocket Options:** NASA and Lockheed are now considering launching the Orion spacecraft on alternative rockets, a previously unthinkable prospect.
+*   **Nikon Small World Winner:** A rice weevil on a grain of rice won the 2025 Nikon Small World photography contest.
