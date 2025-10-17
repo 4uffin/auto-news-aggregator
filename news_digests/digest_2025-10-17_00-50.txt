@@ -1,0 +1,24 @@
+Tech News Digest - 2025-10-17 12:50 AM
+==================================================
+
+Here's a TL;DR of today's top tech news:
+
+**Apple & Hardware**
+*   **MacBook Pro to Get Touchscreen & OLED:** Rumors suggest Apple's MacBook Pro line will finally incorporate OLED displays and touchscreens as early as next year, marking a significant shift for the professional laptop.
+*   **Meta Shuts Down Desktop Messenger:** Meta is discontinuing its dedicated Messenger apps for both Mac and Windows, directing users to the web version instead.
+
+**AI & Software**
+*   **Windows 11 Integrates More AI:** Microsoft is embedding more AI-powered features directly into the core of its Windows 11 operating system.
+*   **OnePlus OxygenOS 16 with Gemini:** OnePlus is rolling out OxygenOS 16, which will include deep integration with Google's Gemini AI.
+*   **Kayak Launches AI Travel Mode:** Travel booking site Kayak has introduced an "AI Mode" to assist users with travel questions, search, and bookings.
+*   **AI Regulation & Concerns:** New York has banned AI-enabled rent price fixing, while Reddit moderators are calling for stricter AI controls after Reddit Answers suggested heroin for pain relief, highlighting growing concerns about AI misuse and regulation.
+
+**Autonomous Vehicles & Delivery**
+*   **Waymo Partners with DoorDash:** Waymo is expanding its autonomous delivery services by partnering with DoorDash in Phoenix, marking its return to the delivery sector.
+
+**Industry & Business**
+*   **Amazon's Nuclear Facility:** Amazon has provided a "first look" at a new nuclear facility, indicating its investment in alternative energy sources.
+*   **Amazon One Medical Offers Pay-Per-Visit:** Amazon's One Medical is introducing a pay-per-visit care option specifically for children.
+
+**Cybersecurity**
+*   **Nation-State Hackers Use Blockchains:** Reports indicate that nation-state hackers are now leveraging "bulletproof" blockchains to deliver malware, posing new challenges for cybersecurity.
