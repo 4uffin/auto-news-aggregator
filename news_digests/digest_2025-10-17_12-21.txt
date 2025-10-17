@@ -1,0 +1,26 @@
+Tech News Digest - 2025-10-17 12:21 PM
+==================================================
+
+Here's a TL;DR of today's top tech news:
+
+**Artificial Intelligence (AI)**
+
+*   **Parental Controls & Responsible AI:** Meta is introducing new parental controls for its AI experiences, while OpenAI has paused Sora video generations depicting Martin Luther King Jr. following a request from his family, highlighting ongoing efforts to manage AI content and usage responsibly.
+*   **AI Integration & Expansion:** Anthropic's Claude AI is now integrated with Microsoft Teams, Outlook, and OneDrive, expanding its reach into enterprise tools. Reddit is also broadening its AI-powered search capabilities to five new languages.
+*   **Future of AI:** "World models" are being touted as the next significant development in AI, suggesting a shift towards more sophisticated AI understanding and interaction.
+*   **AI in Windows:** AI-powered features are increasingly being integrated into the core of Windows 11.
+
+**Hardware & Devices**
+
+*   **Apple Updates:** Rumors suggest the MacBook Pro could see OLED and touchscreen upgrades next year. Apple has also reportedly added its new M5 chip to iPads, MacBooks, and even the Vision Pro.
+*   **Nintendo Switch 2:** Nintendo is reportedly aiming to produce 25 million Switch 2 units by March 2026, indicating a significant upcoming console launch.
+*   **AT&T Price Hikes:** AT&T is raising home internet prices for the second consecutive year.
+
+**Industry & Business**
+
+*   **SK Telecom AI Unit Restructuring:** Just weeks after its launch, SK Telecom's AI unit is offering a voluntary retirement program to staff.
+*   **Electric Aircraft Tech Lives On:** Technology from the defunct electric aircraft startup Lilium is being utilized by Archer, suggesting a continuation of innovation despite company closures.
+
+**Cybersecurity**
+
+*   **Nation-State Malware:** Nation-state hackers are reportedly using "bulletproof" blockchains to deliver malware, indicating a new and concerning trend in cyberattacks.
