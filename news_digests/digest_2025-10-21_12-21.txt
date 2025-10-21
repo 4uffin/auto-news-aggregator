@@ -1,0 +1,29 @@
+Tech News Digest - 2025-10-21 12:21 PM
+==================================================
+
+Here's a TL;DR summary of today's top tech news:
+
+**AI & Robotics**
+
+*   **Amazon's Automation Ambitions:** Leaked documents suggest Amazon aims to replace 600,000 U.S. workers with robots, signaling a significant shift towards automation in its workforce.
+*   **Yelp's Expanding AI:** Yelp is heavily integrating AI, with new features allowing its AI assistant to take reservations over the phone and even scan restaurant menus to show dish appearances.
+*   **Enterprise AI Adoption:** European AI startup Nexos.ai secured €30M to accelerate enterprise AI adoption, while YC alum Cercli raised $12M for its AI-powered HR platform in the MENA region.
+*   **OpenAI Addresses Deepfakes:** SAG-AFTRA and actor Bryan Cranston report that OpenAI is seriously addressing concerns regarding deepfake technology.
+*   **Claude Code Web Version:** Claude Code now has a web version, with new sandboxing features being a key development.
+
+**Industry & Business**
+
+*   **Google vs. Epic Deadline:** Google has set an October 29th deadline for consequences related to its ongoing dispute with Epic.
+*   **African E-Mobility Investment:** Spiro raised a record-breaking $100M, marking the largest investment ever in Africa's e-mobility sector.
+*   **NSO Barred from WhatsApp:** NSO Group has been permanently prohibited from targeting WhatsApp users with its Pegasus spyware.
+
+**Product & Platform Updates**
+
+*   **Airbnb's Social Push:** Airbnb is evolving to be more social, enabling users to connect with fellow travelers.
+*   **Meta's Scam Warnings:** Meta will implement warnings for WhatsApp and Messenger users to protect them from scams.
+*   **Google's Pixel Testers:** Google is reportedly seeking 15 "Superfans" to test unreleased Pixel phones.
+*   **NASA Moon Mission Shake-up:** NASA's chief has unexpectedly altered the agency's plans for landing on the Moon.
+
+**Miscellaneous**
+
+*   **United Airlines Incident:** The object that struck a United Airlines plane was identified as a weather balloon, not space debris.
