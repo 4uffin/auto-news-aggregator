@@ -1,0 +1,28 @@
+Tech News Digest - 2025-10-21 12:51 AM
+==================================================
+
+Here's a TL;DR summary of today's tech news:
+
+**Artificial Intelligence & Big Tech**
+
+*   **OpenAI & AI Ethics:** OpenAI is actively engaging with SAG-AFTRA regarding deepfake concerns, indicating a growing focus on ethical AI development. Meanwhile, top researchers from OpenAI and Google Brain have secured a massive $300M in VC funding for their new startup, Periodic Labs, signaling intense investment in cutting-edge AI.
+*   **Meta AI Growth:** Meta AI's app downloads and daily active users have surged following the launch of its "Vibes" AI video feed, suggesting successful user engagement with its new AI features.
+*   **Google's Deadlines & Testing:** Google has set an October 29th deadline for "Epic consequences," likely related to ongoing legal disputes. The company is also reportedly seeking 15 Pixel "Superfans" to test unreleased phones, indicating upcoming hardware developments.
+*   **Wikipedia's AI Challenge:** Wikipedia is experiencing a decline in traffic, attributing it to AI summaries and social media videos, highlighting the impact of AI on information consumption.
+*   **Claude Code Web Version:** Anthropic's Claude Code now offers a web version, with new sandboxing features being a key development for its secure use.
+
+**Hardware & Software**
+
+*   **Apple's Liquid Glass Option:** Apple is introducing a new toggle for its "Liquid Glass" feature, allowing users to opt for a less glossy, "tinted" look.
+*   **AWS Outage Impact:** A significant AWS outage affected numerous popular services including Alexa, Snapchat, Fortnite, and Venmo, underscoring the widespread reliance on cloud infrastructure.
+*   **Windows 10 Support:** Microsoft has officially ended support for Windows 10, though users can still get an extra year of updates for free.
+
+**Cybersecurity & Privacy**
+
+*   **NSO Group Ban:** NSO Group has been permanently barred from targeting WhatsApp users with its Pegasus spyware, a significant win for digital privacy.
+
+**Other Notable News**
+
+*   **US-Australia Critical Minerals Deal:** The US and Australia have signed a $3 billion critical minerals deal, aiming to secure supply chains for essential technologies.
+*   **X's Username Marketplace:** X (formerly Twitter) plans to sell "rare" usernames for potentially millions of dollars, creating a new revenue stream.
+*   **NASA Moon Mission Shake-up:** NASA's chief has reportedly reshuffled the agency's plans for its lunar landing mission, suggesting potential changes in strategy or timeline.
