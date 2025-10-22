@@ -1,0 +1,29 @@
+Tech News Digest - 2025-10-22 12:53 AM
+==================================================
+
+Here's a TL;DR summary of today's top tech news:
+
+**AI & Software Developments**
+
+*   **OpenAI's Browser & Valuation:** OpenAI is making a significant move into the browser space with its new "Atlas" web browser, seen as a direct challenge to Google Chrome. This comes as the company continues to see high valuations, with another multimodal AI startup, Fal.ai, reportedly raising at over $4 billion.
+*   **Netflix Embraces AI:** Netflix is "all in" on generative AI, expanding its use across various aspects of its operations, even as the entertainment industry remains divided on the technology. They are also "judiciously" expanding into interactive experiences.
+*   **New AI Startups & Funding:** LangChain, an open-source agentic startup, has reached a $1.25 billion valuation. Additionally, Sesame, a conversational AI startup founded by Oculus creators, has raised $250 million and launched its beta.
+*   **YouTube's AI for Deepfakes:** YouTube is developing an AI "likeness detection" tool to identify deepfakes of popular creators.
+
+**Hardware & Devices**
+
+*   **Samsung's XR Headset:** Samsung is preparing to unveil its Android XR headset, with details on how to watch the announcement becoming available.
+*   **iPhone 17 Camera Delay:** The iPhone 17's selfie camera is reportedly causing delays for Project Indigo support.
+*   **High-Speed Camera Innovation:** A new "camera" capable of shooting at two billion frames per second has been developed.
+
+**Industry & Business**
+
+*   **Amazon's Robot Workforce:** A report suggests Amazon plans to replace 600,000 human workers with robots.
+*   **Microsoft's Xbox Strategy:** Microsoft may have hinted that the next Xbox could be a hybrid PC and console, while also increasing the price of Xbox dev kits by $500.
+*   **Social Media Addiction Trial:** Mark Zuckerberg, Adam Mosseri, and Evan Spiegel have been ordered to testify in a trial concerning social media addiction.
+*   **Netflix Expands IP:** Netflix is adapting the popular board game Catan into movies and TV shows.
+
+**Other Notable Stories**
+
+*   **Apple's Walled Garden & ICE:** Apple's "walled garden" approach is being scrutinized for its potential impact on ICE.
+*   **Upcoming iOS/macOS Update:** An upcoming iOS and macOS 26.1 update will introduce a "Liquid Glass" feature.
