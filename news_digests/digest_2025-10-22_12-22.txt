@@ -1,0 +1,28 @@
+Tech News Digest - 2025-10-22 12:22 PM
+==================================================
+
+Here's a TL;DR summary of today's top tech news:
+
+### New Product Releases & Announcements
+
+*   **Samsung Galaxy XR Headset:** Samsung has launched its new Galaxy XR headset, described as a more affordable alternative to the Apple Vision Pro, with hands-on reviews already available.
+*   **OpenAI's Atlas Web Browser:** OpenAI is reportedly developing a new web browser called "Atlas," aiming for a significant impact similar to Google Chrome's.
+*   **Life360 Pet Tracker:** Location-sharing app Life360 is expanding into pet tech with the introduction of a new GPS tracker for pets.
+*   **Sesame AI Startup:** Founded by former Oculus executives, conversational AI startup Sesame has raised $250 million and launched its beta.
+
+### Industry & Business Developments
+
+*   **Netflix's AI & Interactive Expansion:** Netflix is "all in" on generative AI, despite industry divisions, and is also "judiciously" expanding its interactive content offerings.
+*   **Uber EV Incentive:** Uber is offering drivers a $4,000 incentive to switch to electric vehicles.
+*   **LangChain Valuation:** Open-source agentic startup LangChain has reached a $1.25 billion valuation.
+*   **Tesla's Affordable EVs:** Tesla has introduced a new range of more affordable electric cars, with pricing details now available.
+
+### Software & Features
+
+*   **iOS/macOS 26.1 Update:** An upcoming iOS and macOS 26.1 update will introduce a "Liquid Glass" feature, allowing users to "fog up" their screens.
+*   **iPhone 17 Selfie Camera Delay:** The iPhone 17's selfie camera is reportedly causing delays in Project Indigo support.
+
+### Other Notable News
+
+*   **Ocean Energy Storage:** A startup is exploring innovative methods to store electricity in the ocean.
+*   **United Airlines Starlink Wi-Fi:** United Airlines' Starlink Wi-Fi now allows passengers to stream live events like the World Series on planes.
