@@ -1,0 +1,24 @@
+Tech News Digest - 2025-10-23 12:21 PM
+==================================================
+
+Here's a TL;DR summary of today's top tech news:
+
+**Artificial Intelligence & Software**
+*   **OpenAI Expands:** OpenAI is rolling out significant updates to its AI-powered browser, ChatGPT Atlas, and has introduced an "Agent Mode" that can autonomously surf the web.
+*   **Snapchat AI:** Snapchat has launched its first open prompt AI Lens, making advanced AI features more accessible to users in the US.
+*   **Automotive AI Integration:** General Motors plans to integrate AI into its vehicles, alongside new hands-free driving assistance features.
+
+**Hardware & Devices**
+*   **Ledger's Evolving Wallet:** Ledger is launching a new Nano device designed to be more than just a cryptocurrency wallet, hinting at expanded functionalities.
+*   **Portable Monitor Innovation:** The Espresso Pro portable monitor is being hailed as a game-changer for remote work setups.
+*   **Samsung's XR Doubts:** Initial impressions of Samsung's Galaxy XR are not instilling much confidence for the future of Android XR.
+
+**Industry & Business**
+*   **Tesla's Q3 Performance:** Despite healthy sales, Tesla's profits saw a significant 37% drop in Q3, while Elon Musk expressed concerns about controlling a "robot army."
+*   **Amazon's Automation:** Amazon is deploying new cost-cutting robots, asserting that these advancements are not aimed at replacing human jobs.
+*   **Redwood Materials Funding:** Redwood Materials secured an additional $350 million in funding to bolster its energy storage business.
+*   **Ubisoft Layoffs:** Gaming giant Ubisoft is undergoing further layoffs and offering voluntary buyout packages to employees.
+*   **Cybersecurity Concerns:** Cache poisoning vulnerabilities have been discovered in two DNS resolving applications, highlighting ongoing security risks.
+
+**Home & Security**
+*   **ADT & Google Smart Security:** ADT and Google have partnered to introduce hands-free home security solutions, though they come with a premium price tag.
