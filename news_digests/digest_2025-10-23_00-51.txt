@@ -1,0 +1,26 @@
+Tech News Digest - 2025-10-23 12:51 AM
+==================================================
+
+Here's a TL;DR summary of today's top tech news:
+
+**AI & Robotics**
+*   **Amazon's Robotic Expansion:** Amazon is deploying new cost-cutting robots in its operations and introducing AI-powered smart delivery glasses for drivers, which guide them and scan packages.
+*   **Tesla's AI Ambitions:** Elon Musk is pushing to remove "babysitters" from Tesla's robotaxi operations by year-end, despite a 37% drop in Q3 profits. He also expressed concerns about controlling Tesla's "robot army."
+*   **OpenAI Developments:** OpenAI requested an attendee list for a memorial in a ChatGPT-related suicide lawsuit, and its "Atlas" project is reportedly more focused on ChatGPT's capabilities than general web indexing.
+*   **Snapchat's AI Lens:** Snapchat has released its first open prompt AI Lens, available for free in the US.
+*   **GM Integrates AI:** General Motors plans to integrate AI into its vehicles, alongside new hands-free driving assistance features.
+
+**Industry & Business**
+*   **Reddit Sues AI Companies:** Reddit is suing Perplexity and three other companies for allegedly using its content without proper compensation.
+*   **Fandom CEO Departs:** The CEO of Fandom has left the company.
+*   **Tesla's Q3 Performance:** Tesla's profits fell by 37% in Q3, despite healthy sales figures.
+
+**Product & Innovation**
+*   **Lomography's USB-C Camera:** Lomography has released a new film camera that features USB-C charging.
+*   **Rivian Spinoff E-bike:** Rivian's spinoff company, Also, has launched its first e-bike, featuring a virtual drivetrain.
+*   **Google's Quantum Computing Breakthrough:** Google claims to have made a significant breakthrough toward achieving practical quantum computing.
+*   **YouTube Shorts Timer:** YouTube is adding a timer feature to Shorts to help users manage their viewing time.
+
+**Security & Privacy**
+*   **DNS Cache Poisoning:** Cache poisoning vulnerabilities have been discovered in two DNS resolving applications.
+*   **Apple Removes Dating Apps:** Apple has removed the dating apps Tea and TeaOnHer from its App Store due to privacy and moderation concerns.
