@@ -1,0 +1,26 @@
+Tech News Digest - 2025-10-24 12:21 PM
+==================================================
+
+Here's a TL;DR summary of today's tech news:
+
+**AI & Software Developments**
+
+*   **OpenAI Expands OS Integration:** OpenAI has acquired "Sky," an AI interface for Mac, signaling a move towards deeper operating system integration for its AI technologies. This comes amidst concerns about AI "brain rot" in LLMs trained on "junk data."
+*   **Microsoft Edge's AI Push:** Microsoft Edge is introducing a new "Copilot Mode" to activate more AI features within the browser.
+*   **Meta & TikTok Face EU Scrutiny:** Both Meta (Instagram, Facebook) and TikTok are facing charges from the EU for failing to adequately tackle illegal content on their platforms, highlighting ongoing regulatory pressure.
+
+**Industry & Business**
+
+*   **Big Tech's Political Influence:** Several major tech companies, including those led by Benioff and Huang, are reportedly bankrolling events at the White House, and influencing political decisions, such as the non-deployment of federal troops in San Francisco.
+*   **Intel's Foundry Focus:** With an apparent recovery underway, all eyes are on Intel's foundry business as a key indicator of its future strategy, though the company's traditional "tick-tock" development cycle is no longer in play.
+*   **Ford Halts F-150 Lightning Production:** Ford will temporarily cease production of the F-150 Lightning electric truck.
+*   **Reddit Sues Perplexity:** Reddit has filed a lawsuit against Perplexity, alleging the AI company stole data from Google search results.
+
+**Product & Hardware**
+
+*   **Samsung's Entry into XR:** Samsung's Galaxy XR device is entering the extended reality market, indicating growing competition in this space.
+*   **Apple Watch Lineup:** Apple continues to refine its smartwatch offerings with the Apple Watch Series 11, Ultra 3, and SE 3, catering to different user needs.
+
+**Space & Science**
+
+*   **China's Rocket Development:** China has reportedly tested a rocket resembling SpaceX's Falcon 9, while NASA's Moon rocket is now fully stacked.
