@@ -1,0 +1,21 @@
+Tech News Digest - 2025-10-24 12:51 AM
+==================================================
+
+Here's a TL;DR summary of today's top tech news:
+
+**AI & Software**
+*   **OpenAI Expands OS Integration:** OpenAI acquired Sky, an AI interface for Mac, signaling its intent to integrate AI deeper into operating systems. This comes as Microsoft's Edge browser introduces a "Copilot Mode" for more AI features.
+*   **Microsoft's New AI Assistant:** Microsoft launched "Mico," an official successor to Clippy, as part of its Copilot AI Fall Release.
+*   **AI Training Concerns:** Researchers warn that training Large Language Models (LLMs) on "junk data" can lead to "brain rot," raising concerns about AI quality.
+*   **AI in Gaming:** EA is partnering with the company behind Stable Diffusion to incorporate AI into game development.
+*   **Perplexity Accused of Data Theft:** Reddit is suing Perplexity, alleging it "red-handed" stole data from Google search results.
+
+**Hardware & Automotive**
+*   **Intel's Foundry Future:** All eyes are on Intel's foundry business as the company aims for a recovery, though its traditional "tick-tock" development cycle is not returning.
+*   **Ford F-150 Lightning Production Halt:** Ford will temporarily stop producing more F-150 Lightnings.
+*   **Rivian Leadership Shakeup:** Rivian's CEO is taking on the top marketing role ahead of the R2 launch, indicating a strategic shift.
+*   **Lego Game Boy Upgrade:** A new Lego Game Boy upgrade kit allows users to play real cartridges using Nintendo's chips.
+
+**Consumer Tech & Innovation**
+*   **Nike's Tech-Forward Gear:** Nike unveiled new gear designed to keep athletes cool in a warming climate, including a robotic-powered footwear system and "mind-altering mules."
+*   **Apple Loses UK Antitrust Case:** Apple lost a UK antitrust lawsuit concerning its App Store fees.
