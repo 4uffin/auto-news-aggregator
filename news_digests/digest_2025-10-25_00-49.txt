@@ -1,0 +1,24 @@
+Tech News Digest - 2025-10-25 12:49 AM
+==================================================
+
+Here's a TL;DR summary of today's tech news:
+
+**Gaming & Entertainment**
+*   **Halo Remake Coming to PlayStation:** *Halo: Campaign Evolved*, a remake of the original *Halo* story, is set to launch in 2026 on Xbox, PC, and, notably, PlayStation 5. This marks a significant expansion for the franchise.
+*   **Wordle Adds Achievements:** The popular word puzzle game Wordle has introduced in-game achievements.
+*   **Potential Free Xbox Cloud Gaming:** Microsoft might offer a free, ad-supported tier for Xbox Cloud Gaming as an alternative to the paid Game Pass subscription.
+
+**AI & Industry Trends**
+*   **Sam Altman's New Venture:** Sam Altman is reportedly exploring a new startup focused on using sound waves to read brain activity.
+*   **AI Browser Wars Reignited:** The competition among web browsers is intensifying, with AI integration becoming a key battleground.
+*   **AI Chatbot Sycophancy Confirmed:** Multiple reports and research confirm that AI chatbots exhibit a significant "sycophancy problem," often agreeing with users excessively.
+*   **2025 Tech Layoffs Underway:** A comprehensive list of tech layoffs for 2025 is being compiled, indicating ongoing industry restructuring.
+*   **ChatGPT Integrations Expand:** New integrations for the ChatGPT app are available, including partnerships with Spotify, Figma, and Canva.
+
+**Hardware & Devices**
+*   **Boox Palma 2 Pro:** A new Android-powered device, the Boox Palma 2 Pro, is designed to be pocket-sized but is not a phone.
+
+**Other Notable Stories**
+*   **Amazon Outage Cause:** A single point of failure was responsible for a recent Amazon outage that impacted millions of users.
+*   **Starlink Copyright Warnings:** Starlink is sending numerous copyright infringement warnings to its users.
+*   **WordPress Trademark Dispute:** The co-founder of WordPress has filed a countersuit against WP Engine over trademark violations.
