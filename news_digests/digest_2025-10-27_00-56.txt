@@ -1,0 +1,23 @@
+Tech News Digest - 2025-10-27 12:56 AM
+==================================================
+
+Here's a TL;DR of today's top tech news:
+
+**Artificial Intelligence & Software:**
+*   **OpenAI's Music Ambitions:** OpenAI is reportedly developing an AI tool capable of generating music, signaling a new frontier for generative AI.
+*   **Google Gemini Expands:** Google's Gemini AI will now be able to generate presentations, adding to its productivity features.
+*   **AI and Facial Recognition:** The "next legal frontier" is being identified as the intersection of your face and AI, highlighting growing concerns and developments in this area.
+*   **LLM Bias:** Research is emerging on the "sycophancy problem" in Large Language Models (LLMs), suggesting a tendency for them to agree with user prompts.
+
+**Apple Ecosystem:**
+*   **Apple Maps to Get Ads:** Reports indicate that Apple plans to introduce advertisements to its Maps application as early as next year.
+*   **iPad Pro Cooling:** The upcoming iPad Pro might feature vapor chamber cooling, a significant hardware upgrade for performance.
+*   **Adobe's iPhone 17 Support:** Adobe's Project Indigo camera is finally adding support for the iPhone 17, integrating with Apple's latest mobile technology.
+
+**Industry & Business:**
+*   **TikTok Deal Progress:** The US Treasury Secretary announced that a deal regarding TikTok between Trump and Xi is expected to be finalized soon.
+*   **Indian Startup Investment:** Accel and Prosus are collaborating to back early-stage startups in India, signaling continued investment in the region's tech sector.
+*   **Amazon Outage Cause:** A "single point of failure" was identified as the cause of a recent Amazon outage that impacted millions of users.
+
+**Privacy & Surveillance:**
+*   **CBP Facial Recognition:** U.S. Customs and Border Protection (CBP) will begin photographing non-citizens entering and exiting the US for its facial recognition database, expanding surveillance efforts.
