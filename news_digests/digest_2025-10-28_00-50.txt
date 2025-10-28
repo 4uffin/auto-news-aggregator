@@ -1,0 +1,22 @@
+Tech News Digest - 2025-10-28 12:50 AM
+==================================================
+
+Here's a TL;DR summary of today's key tech news:
+
+**Artificial Intelligence & Computing**
+*   **AMD and Department of Energy Partner for AI Supercomputer:** AMD and the U.S. Department of Energy have announced a significant $1 billion partnership to develop a new AI supercomputer, signaling a major investment in advanced computing capabilities.
+*   **Zoom CEO Predicts Shorter Workweeks with AI:** Eric Yuan, CEO of Zoom, believes that advancements in AI will ultimately lead to shorter workweeks for employees.
+*   **AI Search Engines Favor Less Popular Sources:** New research indicates that AI-powered search engines tend to rely on "less popular" sources for their information.
+
+**Gaming & Entertainment**
+*   **Battlefield 6 Launches New Battle Royale Mode:** *Battlefield 6* is introducing a new battle royale mode called "Redsec Mode," available today, bringing the popular game type back to the series.
+*   **Spotify Brings Video Podcasts & Music Videos to Apple TV:** Spotify has expanded its Apple TV app to include video podcasts and music videos, enhancing its multimedia offerings on the platform.
+
+**Industry & Business**
+*   **TikTok's Future Uncertain:** The fate of TikTok in the U.S. could be decided this week, following years of legislative threats and potential bans.
+*   **Alphabet's X CEO on "Moonshots":** Astro Teller, CEO of Alphabet's experimental division X, shared insights into what constitutes a successful "moonshot" project.
+*   **Defense Startup Pytho AI to Showcase Military Tech:** Pytho AI, a defense startup focused on enhancing military mission planning, will be demonstrating its technology at Disrupt 2025.
+
+**Product & Innovation**
+*   **Google's Beam 3D Video Conferencing for Service Members:** Google is deploying its "Beam" 3D video conferencing technology to service members, enabling more immersive communication.
+*   **Porsche Unveils Powerful 911 Turbo S:** Porsche has revealed its 2026 911 Turbo S, a high-performance vehicle boasting 701 horsepower.
