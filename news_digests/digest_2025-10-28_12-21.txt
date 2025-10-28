@@ -1,0 +1,18 @@
+Tech News Digest - 2025-10-28 12:21 PM
+==================================================
+
+Here's a TL;DR summary of today's tech news:
+
+**Artificial Intelligence & Software**
+*   **Adobe's AI Expansion:** Adobe is heavily investing in AI, introducing "Project Moonlight" for social media administration, AI assistants for Adobe Express and Photoshop to automate design and editing tasks, and new AI audio tools for generating soundtracks and voice-overs in videos. Firefly Image 5 will now support layers and allow creators to build custom AI models.
+*   **OpenAI Partnerships & Offers:** PayPal has partnered with OpenAI, enabling users to make purchases within ChatGPT. OpenAI is also offering a free one-year subscription to ChatGPT Go for all users in India.
+*   **AI Search Engine Concerns:** Research indicates that AI-powered search engines are increasingly relying on "less popular" sources, raising questions about information diversity and reliability.
+
+**New Product Releases & Updates**
+*   **Insta360 X4 Air:** Insta360 has launched the X4 Air, a more compact and affordable 8K 360-degree action camera, following its X5 predecessor.
+*   **Kensington Trackball:** Kensington has unveiled a new trackball mouse featuring multiple scroll wheels for enhanced navigation.
+*   **YouTube Shorts & Adobe Integration:** YouTube Shorts will soon integrate Adobe Premiere's video editing tools, streamlining content creation.
+
+**Deals & Industry Insights**
+*   **MacBook Air M4 Sale:** Apple's MacBook Air M4 is currently on sale for $799.
+*   **Venture Capital Perspective:** Sequoia's Roelof Botha states that venture capital should not be considered an asset class.
