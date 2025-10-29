@@ -1,0 +1,24 @@
+Tech News Digest - 2025-10-29 12:54 AM
+==================================================
+
+Here's a TL;DR summary of today's top tech news:
+
+**AI & Regulation**
+*   **AI Chatbot Restrictions Proposed:** Senators are pushing for legislation to ban teens from using AI chatbots, citing concerns about their impact on young users. This comes as OpenAI data reportedly indicates a staggering 1 million weekly discussions about suicide on ChatGPT.
+*   **Amazon's AI-Driven Layoffs:** Amazon has announced a significant restructuring, cutting 14,000 jobs, largely attributed to an increased focus on AI initiatives.
+*   **Spotting AI Fakes:** With events like "Hurricane Melissa" in Jamaica, there's a growing concern about AI-generated fake videos, emphasizing the need for vigilance in identifying manipulated content.
+*   **AI in Education:** Super Teacher is developing an AI tutor specifically for elementary school students, showcasing AI's expanding role in education.
+
+**Product & Hardware Innovations**
+*   **Buttonless iPhone Rumors:** Apple's upcoming iPhone 20 is reportedly exploring a radical design change, potentially ditching all physical buttons.
+*   **Autonomous Driving Advancements:** Waabi, in partnership with Volvo, has unveiled a new autonomous truck. Additionally, Lucid is hinting at the development of an autonomous car for consumers, signaling a push towards wider adoption of self-driving technology.
+*   **New Earbuds & Gaming Console:** Nothing's Ear Open earbuds are back under $100, offering a more affordable option for wireless audio. A new "Board" console is launching, featuring 12 original board games.
+
+**Industry & Business**
+*   **Amazon Shifts Gaming Strategy:** Amazon is reportedly moving away from large-scale MMOs to focus on developing party games.
+*   **Nuclear Power Investment:** Westinghouse is projecting an $80 billion investment in new nuclear reactors if a proposed deal goes through, highlighting a potential resurgence in nuclear energy.
+*   **Verizon's Affordable Internet:** Verizon is introducing a new internet plan that could cost as little as $25 per month, aiming to make broadband more accessible.
+*   **Startup Battlefield at Disrupt:** TechCrunch Disrupt 2025 is showcasing innovative startups, including Unlisted, which connects homeowners with prospective buyers before a formal listing.
+
+**Content & Media**
+*   **YouTube's Age Restrictions:** YouTube plans to implement stricter age restrictions on content depicting "graphic violence" in video games.
