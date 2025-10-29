@@ -1,0 +1,28 @@
+Tech News Digest - 2025-10-29 12:22 PM
+==================================================
+
+Here's a TL;DR summary of today's tech news:
+
+**Apple & Hardware**
+*   **Vision Pro Update:** Apple's Vision Pro, now with an M5 chip, shows improvements but still faces challenges with user experience, described as "awfully lonely."
+*   **OLED for Apple Devices:** Apple is reportedly planning to transition MacBooks, iPad Air, and iPad Mini to OLED displays.
+*   **Withings Health Tech:** Withings has launched a $350 urine-scanning health tracker.
+*   **Windows Handhelds:** A critical assessment suggests that Windows itself is the primary obstacle to the success of Windows-based handheld devices.
+
+**Autonomous Vehicles & Transportation**
+*   **Uber Robotaxi Expansion:** Uber is set to launch a premium robotaxi service in San Francisco, directly competing with Waymo. This service, in partnership with Lucid, is expected to debut in 2026.
+*   **Lucid's Autonomous Ambitions:** Lucid is reportedly developing an autonomous car for consumers, indicating a broader push into self-driving technology beyond ride-sharing.
+
+**Software & Services**
+*   **OpenAI Lawsuit:** OpenAI is facing a trademark infringement lawsuit regarding its Sora video generation model's "Cameo" feature.
+*   **MoviePass Relaunch:** MoviePass has opened its fantasy league game, Mogul, to the public.
+*   **Indian FinTech:** Flipkart's Super.money is collaborating with Kotak811 to monetize India's free UPI payment system.
+
+**Cybersecurity & Privacy**
+*   **Spyware Confession:** The CEO of Memento Labs, a spyware maker, confirmed that one of its government clients was caught using its malware.
+*   **South Korean Telco Breach:** LG Uplus is the latest South Korean telecommunications company to confirm a cybersecurity incident.
+*   **Child Protection Legislation:** Senators are pushing for legislation to prevent "creepy companion bots" from Big Tech companies from targeting children.
+
+**Other Notable Developments**
+*   **Mazda Rotary Hybrid:** Mazda showcased a rotary hybrid concept at the Tokyo Motor Show, featuring an evolved design.
+*   **Nuclear Power Expansion:** Westinghouse claims a new nuclear deal could lead to $80 billion in new reactor construction.
