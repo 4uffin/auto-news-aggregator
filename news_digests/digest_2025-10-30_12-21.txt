@@ -1,0 +1,24 @@
+Tech News Digest - 2025-10-30 12:21 PM
+==================================================
+
+Here's a TL;DR summary of today's top tech news:
+
+**AI & Software Developments**
+*   **OpenAI Enhances Sora:** OpenAI has introduced new features for its Sora video generation model, including reusable "characters" and video stitching capabilities, expanding its creative potential.
+*   **Meta's AI Strategy:** Meta plans to integrate a "huge corpus" of AI-generated content into its recommendation systems, signaling a significant shift in content delivery. The company also denied allegations of using torrented porn for AI training, stating downloads were for "personal use."
+*   **YouTube's AI Reorganization:** YouTube is offering employee buyouts as part of a restructuring effort focused on AI integration, indicating a strategic shift towards AI-driven operations.
+
+**Hardware & Devices**
+*   **Affordable Chevy Bolt EV:** Chevrolet is launching a new Bolt EV priced under $30,000, aiming to make electric vehicles more accessible.
+*   **MacBook Air Deal:** The M4-powered MacBook Air is currently on sale for $799, offering a significant discount on Apple's latest laptop.
+*   **Meta Neural Band Cost:** Losing your Meta Neural Band will set you back $199 for a replacement.
+*   **Vision Pro's Future:** Discussions are ongoing about the future of Apple's Vision Pro, with suggestions to learn from smart glasses like Xreal.
+
+**Industry & Business**
+*   **Microsoft Azure Outage:** Microsoft is recovering from a significant Azure outage that impacted numerous services, including Microsoft 365, Xbox, and Starbucks.
+*   **Indian Startup Funding:** IntrCity SmartBus secured $30 million at a $140 million valuation to expand its intercity travel services in India, while Snabbit's valuation doubled to $180 million in five months for its house-help services.
+*   **Malicious NPM Packages:** The NPM registry has been flooded with malicious packages, downloaded over 86,000 times, posing a significant security risk for developers.
+
+**Other Notable News**
+*   **New iPhone Lock Screen Features:** iOS 26 will introduce several new features and changes to the iPhone Lock Screen.
+*   **Community-Owned Network Launch:** NBA champion Tristan Thompson and World Mobile have launched Uplift, a community-owned network.
