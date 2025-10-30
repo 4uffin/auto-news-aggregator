@@ -1,0 +1,26 @@
+Tech News Digest - 2025-10-30 12:54 AM
+==================================================
+
+Here's a TL;DR summary of today's top tech news:
+
+**Major Outages & Cybersecurity**
+*   **Microsoft Azure Outage:** Microsoft experienced a significant Azure outage, impacting services like Microsoft 365 and Xbox. The company is reportedly recovering.
+*   **Malicious NPM Packages:** The NPM registry has been flooded with malicious packages, downloaded over 86,000 times, posing a significant supply chain security risk.
+
+**AI & Social Media**
+*   **Meta's AI Push:** Mark Zuckerberg is enthusiastic about integrating more AI content across Meta's social platforms. This comes amidst ongoing scrutiny, with Meta again addressing moderation concerns with Republicans.
+*   **Meta AI Training Controversy:** Meta is denying claims of using torrented pornography for AI training, stating downloads were for "personal use."
+*   **Threads Growth:** Meta's Threads has reached 150 million daily active users and is increasing its ad presence.
+*   **Trusted Social Communities:** Digg founder Kevin Rose emphasizes the growing need for trusted social communities in the AI era.
+
+**Industry & Business**
+*   **YouTube's Voluntary Exit Program:** YouTube has announced a "voluntary exit program" for its U.S. staff.
+*   **Google & Amazon Cloud Contracts in Israel:** Reports suggest Google and Amazon's cloud contracts in Israel may require them to bypass legal orders.
+*   **Community-Owned Network:** NBA champion Tristan Thompson and World Mobile have launched Uplift, a community-owned network.
+
+**Product & Innovation**
+*   **Rode Wireless Mic Connector:** Rode has introduced a new solution for connecting its tiny wireless microphones to digital cameras.
+*   **Sci-Fi Horror Game Release:** The long-awaited sci-fi horror game "Routine," announced 13 years ago, finally has a release date of December 4th.
+
+**Other Noteworthy News**
+*   **Solana Co-founder on Agentic Coding:** Anatoly Yakovenko, co-founder of Solana, is a strong proponent of agentic coding.
