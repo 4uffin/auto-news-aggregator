@@ -1,0 +1,28 @@
+Tech News Digest - 2025-10-31 12:22 PM
+==================================================
+
+Here's a TL;DR summary of today's tech news:
+
+**Artificial Intelligence & Software**
+
+*   **Sora Expands AI Video Offerings:** OpenAI's Sora now allows users to pay extra for generating more AI videos, indicating a move towards tiered access for its advanced generative AI.
+*   **Apple Intelligence Growth:** Tim Cook confirmed that more AI capabilities are slated to be integrated into Apple Intelligence, suggesting a continued expansion of Apple's AI ecosystem.
+*   **Canva's AI Push:** Design platform Canva has launched its own design model and introduced new AI features, aiming to enhance its creative tools with generative AI.
+*   **Microsoft's Agent Platform:** Microsoft is reportedly making a significant play in the agent platform space, though specific details are still emerging.
+*   **AI Health Companion:** Bevel secured $10 million in Series A funding from General Catalyst for its AI-powered health companion, highlighting continued investment in AI for wellness.
+
+**Industry & Business**
+
+*   **Navan IPO Struggles:** Navan's IPO saw a significant 20% drop after its debut, which occurred under an SEC shutdown workaround, indicating potential market volatility or investor caution.
+*   **Nvidia Invests in Poolside:** Nvidia is reportedly investing up to $1 billion in Poolside, signaling a strategic interest in the company's offerings, likely related to AI or data centers.
+*   **Xbox Revenue Decline:** Xbox console revenue experienced a significant drop this year, according to Engadget, suggesting a challenging period for Microsoft's gaming division.
+
+**Product & Hardware**
+
+*   **Samsung Earbuds Deal:** Samsung's AirPods Pro-like earbuds are currently available at their lowest price in months, presenting a good opportunity for consumers.
+*   **Pixel Vulnerabilities:** A leaker has revealed which Pixel phone models are susceptible to Cellebrite phone hacking, raising concerns about device security.
+
+**Notable Issues & Trends**
+
+*   **Windows 11 Bug:** A bizarre bug in Windows 11 is causing Task Manager to duplicate instead of closing, indicating a minor but annoying software glitch.
+*   **YouTube TV Loses Disney Channels:** YouTube TV has lost access to ESPN, ABC, and other Disney channels, which will impact subscribers' content availability.
