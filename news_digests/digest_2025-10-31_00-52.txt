@@ -1,0 +1,24 @@
+Tech News Digest - 2025-10-31 12:52 AM
+==================================================
+
+Here's a TL;DR summary of today's tech news:
+
+**AI & Software Developments**
+*   **Microsoft's Agent Platform:** Microsoft is reportedly making a significant push into AI agent platforms, indicating a strategic shift in its AI endeavors.
+*   **Apple Intelligence Expansion:** Tim Cook confirmed that more AI models will be integrated into Apple Intelligence, suggesting a broader and more diverse AI ecosystem for Apple devices.
+*   **Canva's AI Design Model:** Canva has launched its own AI design model and introduced new AI features to its platform, enhancing its design capabilities with artificial intelligence.
+*   **OpenAI's Sora Credits:** OpenAI is now selling additional Sora credits for its text-to-video model and plans to reduce the number of free generations in the future, signaling a monetization strategy for its advanced AI tools.
+*   **Threads Reply Filtering:** Threads has added new features allowing users to approve and filter replies, giving them more control over their interactions on the platform.
+
+**Industry & Business**
+*   **Navan IPO Tumbles:** Navan's IPO experienced a significant 20% drop after its debut, which occurred under an SEC shutdown workaround, highlighting market volatility.
+*   **Nvidia Invests in Poolside:** Nvidia is reportedly investing up to $1 billion in Poolside, indicating a continued focus on strategic investments in AI-related companies.
+*   **Affinity's Freemium Model:** Affinity's image-editing apps are transitioning to a "freemium" model following a major update post-Canva acquisition, potentially broadening its user base.
+
+**Product & Hardware**
+*   **Animal Crossing Update & Switch 2:** An Animal Crossing update will introduce Lego furniture, with a version for the upcoming Switch 2 arriving on the same day, hinting at new console features and integrations.
+*   **US Government Urges Wi-Fi Router Ban:** The US government is reportedly pushing for a total ban on a popular Wi-Fi router, raising concerns about security or regulatory compliance.
+*   **Disney+ HDR10+ Rollout:** Disney+ has begun rolling out HDR10+ support, enhancing the visual quality for compatible devices.
+
+**Other Notable News**
+*   **NASA Supersonic Jet Flight:** NASA's supersonic jet has completed its first flight in California, marking a milestone in aviation technology.
