@@ -1,0 +1,23 @@
+Tech News Digest - 2025-11-01 12:55 AM
+==================================================
+
+Here's a TL;DR of today's top tech news:
+
+**Gaming & Entertainment**
+*   **GTA VI Developer Accused of Union Busting:** Rockstar Games is facing accusations of union busting in the UK following mass firings, raising concerns about labor practices in the gaming industry.
+*   **Xbox Full Screen Experience for MSI Claw:** Microsoft has released a preview of an Xbox Full Screen Experience specifically for the MSI Claw, enhancing the handheld gaming PC experience.
+*   **Dolby Atmos in Hyundai Elexio:** The new, affordable, China-exclusive Hyundai Elexio will feature Dolby Atmos, bringing premium audio to a wider market.
+
+**Social Media & AI**
+*   **Bluesky Hits 40 Million Users, Introduces 'Dislikes' Beta:** Bluesky continues its growth, reaching 40 million users and beginning to experiment with a "dislikes" feature and "social proximity" to refine user interactions.
+*   **AI Mania Shifts CoreWeave's Strategy:** The intense focus on AI has led to CoreWeave abandoning its acquisition of Core Scientific, instead opting to acquire the Python notebook company Marimo, indicating a shift in strategic priorities within the AI sector.
+*   **Cursor Launches Coding Model & Multi-Agent Interface:** Cursor has introduced its new coding model alongside a multi-agent interface, aiming to enhance developer workflows.
+
+**Hardware & Software**
+*   **Windows 11 Tests Bluetooth Audio Sharing:** Windows 11 is experimenting with a new feature that allows Bluetooth audio to be shared with two headsets simultaneously.
+*   **Two Windows Vulnerabilities Under Active Exploitation:** Two Windows vulnerabilities, including a zero-day, are currently being actively exploited, highlighting ongoing security concerns.
+*   **DJI Neo 2 Selfie Drone with LiDAR:** DJI's new Neo 2 selfie drone incorporates LiDAR technology for advanced obstacle avoidance, improving user experience and safety.
+
+**Industry & Policy**
+*   **FCC to Rescind ISP Network Security Ruling:** The FCC plans to rescind a ruling that mandated ISPs secure their networks, a move that could have significant implications for cybersecurity and consumer protection.
+*   **Meta Invests in Solar Power:** Meta has acquired 1 GW of solar power this week, demonstrating a continued commitment to renewable energy and sustainability.
