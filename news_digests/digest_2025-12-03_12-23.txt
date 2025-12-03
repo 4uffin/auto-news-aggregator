@@ -1,0 +1,23 @@
+Tech News Digest - 2025-12-03 12:23 PM
+==================================================
+
+Today's Tech News TL;DR:
+
+**AI & Cloud Computing**
+*   **Google's AI Headline Experiment:** Google is reportedly experimenting with replacing traditional news headlines with AI-generated "clickbait nonsense" in its Discover feed, drawing criticism for the quality and potential impact on news consumption.
+*   **Amazon's AI Push at re:Invent:** Amazon made significant announcements at its re:Invent 2025 conference, including challenging competitors with on-premises Nvidia 'AI Factories,' signaling a major investment in enterprise AI solutions.
+*   **OpenAI's "Code Red":** OpenAI's CEO has reportedly declared a "code red" as Google's Gemini AI rapidly gains traction, reaching 200 million users in just three months, intensifying the AI race.
+*   **Healthify AI Upgrade:** Healthify's AI assistant, Ria, has been upgraded with real-time conversation capabilities, enhancing its interactive health support.
+
+**Autonomous Vehicles**
+*   **Uber & Avride Launch Robotaxis in Dallas:** Uber and Avride have partnered to launch a new robotaxi service in Dallas, expanding the reach of autonomous ride-sharing.
+
+**Government & Tech Regulation**
+*   **India's Pre-installed App Mandate Pulled:** After significant backlash, India has reversed its mandate requiring smartphone manufacturers to pre-install a government security app on all devices. (Note: Ars Technica's headline about India *ordering* the app seems to be a slightly older report or a misunderstanding given TechCrunch's update.)
+
+**Crowdfunding & New Products**
+*   **Indiegogo's Express Crowdfunding:** Indiegogo is introducing 'Express Crowdfunding' to help creators ship products to backers more quickly.
+*   **Mirumi Companion Robot:** The Mirumi furry companion robot is now available for funding on Kickstarter.
+
+**Space Exploration**
+*   **China's Reusable Rocket Ambitions:** A Chinese company is poised to become the first in the country to successfully land a reusable rocket, marking a significant step in its space program.
