@@ -1,0 +1,23 @@
+Tech News Digest - 2025-12-03 12:54 AM
+==================================================
+
+Here's a TL;DR of today's top tech news:
+
+**AI & Cloud Computing**
+*   **Amazon's AI Push:** Amazon is making significant moves in AI, challenging competitors with on-premises Nvidia 'AI Factories' and previewing three new AI agents, including 'Kiro,' an autonomous coding agent. They also appear to be downplaying the importance of traditional AI benchmarks.
+*   **Google's AI Integration:** Google is experimenting with integrating AI Overviews into its AI Mode and is testing AI-generated headlines in Google Discover, though initial reactions suggest these headlines are not well-received.
+*   **OpenAI vs. Gemini:** OpenAI's CEO has reportedly declared a "code red" as Google's Gemini AI rapidly gains traction, reaching 200 million users in just three months.
+
+**Industry & Business**
+*   **Eventbrite Acquisition:** Bending Spoons has agreed to acquire Eventbrite for $500 million, aiming to revitalize the brand.
+*   **Kalshi's Soaring Valuation:** Prediction market platform Kalshi has raised $1 billion, doubling its valuation to $11 billion in under two months.
+*   **Crowdfunding Innovation:** Indiegogo is launching 'Express Crowdfunding' to help creators ship products faster.
+
+**Product & Software**
+*   **Polaroid Flip Deal:** The retro Polaroid Flip instant camera is currently available at a significantly reduced price.
+*   **ExpressVPN Update:** ExpressVPN has introduced a "Fastest Location" button and a new native Mac application.
+*   **Netflix Streaming Restriction:** Netflix has reportedly banned streaming content from phones to TVs.
+
+**Regulatory & Policy**
+*   **India's Security App Mandate:** India is mandating device manufacturers to pre-install a government-run security application on all phones.
+*   **Instacart Sues NYC:** Instacart is suing New York City over new minimum pay and tipping regulations.
