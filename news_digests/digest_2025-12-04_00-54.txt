@@ -1,0 +1,27 @@
+Tech News Digest - 2025-12-04 12:54 AM
+==================================================
+
+Here's a TL;DR summary of today's tech news:
+
+**AI & Software**
+*   **Amazon's AI Coding Tool:** Amazon is offering its AI coding tool, Kiro, to startups for free to boost adoption. This comes amidst a flurry of announcements from AWS re:Invent 2025.
+*   **Anthropic's AI Warning:** AI company Anthropic issued a "YOLO" warning about the potential for an AI bubble.
+*   **AI Email Features:** Superhuman's new AI email features are being praised for their potential to increase productivity.
+*   **Vulnerability Threatens Websites:** A maximum-severity vulnerability is reportedly threatening 6% of all websites, highlighting ongoing cybersecurity concerns.
+*   **Republicans Drop AI Block:** Republicans have removed a Trump-ordered block on state AI laws from the defense bill, potentially allowing states more autonomy in AI regulation.
+
+**Industry & Business**
+*   **Meta Poaches Apple Design Exec:** Apple design lead Alan Dye is moving to Meta, a significant talent acquisition for the social media giant.
+*   **MrBeast IPO Speculation:** MrBeast's CEO is exploring the possibility of an IPO, aiming to give fans a chance to own a piece of the company.
+*   **Crucial Exits Consumer RAM Market:** After nearly 30 years, Crucial will stop selling RAM directly to consumers, marking a notable shift in the memory market.
+*   **Reddit's r/popular Going Away:** Reddit's CEO announced that the r/popular feed "sucks" and will be removed.
+
+**Automotive & Space**
+*   **BMW iX3 First Drive:** The new 2027 BMW iX3, an advanced EV, is receiving positive reviews for its handling and technology.
+*   **Satellites Photobombing Hubble:** An increasing number of satellites are interfering with Hubble telescope observations.
+*   **NASA's Asteroid Discovery:** NASA has found tantalizing clues on Asteroid Bennu that could shed light on how life began.
+*   **US DOT Cuts Fuel Efficiency Standards:** The US Department of Transportation has doubled down on gas and cut fuel efficiency standards.
+
+**Gaming & Entertainment**
+*   **Roblox Banned in Russia:** Local media reports indicate that Roblox has been banned in Russia.
+*   **Bungie Plagiarism Resolved:** The artist whose work Bungie plagiarized for the Marathon alpha has confirmed the issue has been resolved.
