@@ -1,0 +1,30 @@
+Tech News Digest - 2025-12-04 12:24 PM
+==================================================
+
+Here's a TL;DR summary of today's tech news:
+
+**AI & Software Developments**
+
+*   **Google's Gemini Dominates Search:** Gemini was the top trending search term on Google in 2025, indicating significant public interest and adoption of the AI.
+*   **Amazon's AI Coding Push:** Amazon is offering its AI coding tool, Kiro, to startups for free, aiming to boost its adoption and compete in the AI development space.
+*   **Proton Expands Productivity Suite:** Proton has launched Proton Sheets, adding a spreadsheet application to its privacy-focused productivity tools.
+*   **AI in Music:** Expect a surge in AI-generated country music, signaling AI's growing influence in creative industries.
+*   **Political Stance on AI:** Republicans have dropped a Trump-ordered block on state-level AI laws from a defense bill, potentially opening the door for more localized AI regulation.
+
+**Hardware & Gadgets**
+
+*   **iPhone 17 Pro Feature Removal:** Apple has reportedly removed a Night mode photo feature from the upcoming iPhone 17 Pro, a curious move for a flagship device.
+*   **BMW iX3 First Drive:** Reviews are in for the 2027 BMW iX3, highlighting its advanced EV tech and great handling, signaling a "New Class" for the automaker.
+*   **Antigravity's 360-Degree Drone:** A new drone from Antigravity offers 360-degree capabilities, aiming to challenge DJI's dominance in the drone market.
+*   **Satellite Interference with Hubble:** Satellites are increasingly photobombing the Hubble telescope, posing a growing challenge for astronomical observations.
+
+**Industry & Business**
+
+*   **New Unicorn Brevo:** Brevo has raised a substantial $583 million, achieving unicorn status and positioning itself to compete with established CRM giants.
+*   **Nexus's Investment Strategy:** Venture capital firm Nexus is dedicating half of its new $700 million fund to Indian startups, indicating a strong focus on the region, while not going "all-in" on AI.
+*   **Meta Oversight Board Expansion:** Meta's Oversight Board is seeking to expand its powers in 2026, suggesting a desire for greater influence over content moderation and platform policies.
+
+**Other Notable News**
+
+*   **Fentanyl Vaccine Trial:** A fentanyl vaccine is set to undergo its first major test, a significant development in the fight against the opioid crisis.
+*   **Cybersecurity Warning:** Admins and defenders are preparing for a maximum-severity server vulnerability, emphasizing ongoing cybersecurity threats.
