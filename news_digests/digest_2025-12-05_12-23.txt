@@ -1,0 +1,28 @@
+Tech News Digest - 2025-12-05 12:23 PM
+==================================================
+
+Here's a TL;DR summary of today's key tech news:
+
+**Industry & Business**
+
+*   **Netflix Acquires Warner Bros.:** In a massive industry shake-up, Netflix has reportedly won the bidding war for Warner Bros. with an $82.7 billion acquisition, significantly expanding its content library and market dominance.
+*   **EU Fines X:** The European Union has fined X (formerly Twitter) $140 million, citing "deceptive" practices related to its blue checkmark verification system.
+*   **Walmart-backed PhonePe Retreats:** Indian fintech giant PhonePe, backed by Walmart, is winding down its Pincode e-commerce app, signaling a potential shift in its e-commerce strategy.
+*   **Micro1 Hits $100M ARR:** Micro1, a competitor to Scale AI in the AI development space, announced it has crossed $100 million in Annual Recurring Revenue (ARR), highlighting growth in the AI services sector.
+*   **Chicago Tribune Sues Perplexity:** The Chicago Tribune is suing AI search engine Perplexity, likely over copyright or content usage issues, adding to the growing legal challenges faced by AI companies.
+
+**AI & Software**
+
+*   **AWS re:Invent 2025 Highlights:** Amazon Web Services (AWS) held its annual re:Invent conference, with major announcements expected across cloud computing, AI, and enterprise solutions.
+*   **AI Chatbot Persuasion:** Researchers have identified factors contributing to the political persuasiveness of AI chatbots, raising questions about their potential influence.
+*   **Windows 11 Run Dialog Update:** Microsoft is rolling out a visually improved "Run" dialog box for Windows 11, offering a minor but welcome UI enhancement.
+
+**Hardware & Gadgets**
+
+*   **Waymo Robotaxi Scrutiny:** Federal regulators are questioning Waymo about repeated instances of its robotaxis passing school buses in Austin, raising safety concerns.
+*   **Kohler Smart Toilet Privacy Flaw:** An engineer demonstrated that Kohler's smart toilet cameras have significant privacy vulnerabilities, highlighting risks in connected home devices.
+
+**Other Notable News**
+
+*   **NASA Artemis Plan Criticized:** Congress has warned that NASA's current plan for the Artemis lunar program is "unworkable," casting doubt on its feasibility.
+*   **Facebook/Instagram Account Recovery:** Meta has introduced a new hub to help users recover hijacked Facebook and Instagram accounts, addressing a common security issue.
