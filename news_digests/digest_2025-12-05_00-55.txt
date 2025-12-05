@@ -1,0 +1,29 @@
+Tech News Digest - 2025-12-05 12:55 AM
+==================================================
+
+Here's a TL;DR summary of today's tech news:
+
+**Apple & Executive Changes**
+*   Apple is undergoing significant executive turnover, with multiple high-level departures, including its general counsel and policy head.
+
+**AI & Robotics**
+*   Federal regulators are investigating Waymo after reports of its robotaxis repeatedly passing school buses in Austin.
+*   Micro1, a competitor to Scale AI, announced it has crossed $100 million in annual recurring revenue.
+*   Anthropic's CEO commented on the "AI bubble" and the competitive landscape.
+*   Researchers have identified factors that make AI chatbots politically persuasive.
+*   A report highlights that AI struggles with tasks like Sudoku, and its explanations for failures are even worse, raising concerns.
+
+**Gaming**
+*   Nintendo's Switch 2 Mario Kart bundle is back on sale at Amazon.
+*   iam8bit is suing Skybound Game Studios, alleging fraud and theft of designs.
+*   *Cairn*, a new game, has set a release date of January 29, 2026.
+
+**Security & Privacy**
+*   An engineer demonstrated privacy vulnerabilities in Kohler's smart toilet cameras.
+*   In a bizarre incident, men accused of wiping government databases reportedly used an AI tool.
+
+**Industry & Policy**
+*   Elon Musk stated that new Tesla software allows texting and driving, a practice illegal in most states.
+*   Congress has warned that NASA's current plan for the Artemis moon mission "cannot work."
+*   Amazon is reportedly considering ending its ties with the US Postal Service.
+*   Russia has reportedly banned Snapchat and FaceTime.
