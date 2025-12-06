@@ -1,0 +1,23 @@
+Tech News Digest - 2025-12-06 12:20 PM
+==================================================
+
+Here's a TL;DR summary of today's tech news:
+
+**AI & Robotics**
+*   **AI Valuations Soar:** AI continues to attract massive investment, with ex-Googler's Yoodli tripling its valuation to over $300M for its AI assistant platform, and AI synthetic research startup Aaru reportedly raising a Series A at a $1B "headline" valuation.
+*   **AWS Pushes AI Agents:** Amazon Web Services is heavily promoting the adoption and belief in AI agents, signaling a strategic focus on this area.
+*   **High-End Home Robotics:** Digital artist Beeple sold a $100K robot dog, highlighting the growing market for luxury and artistic robotics. CNET also notes the emergence of $20K home robots, suggesting a new frontier in consumer tech.
+
+**Streaming & Entertainment**
+*   **Netflix's Mega-Acquisition:** Netflix is making a monumental move, reportedly acquiring Warner Bros. for $72 billion. This massive deal is expected to profoundly reshape the streaming landscape and the future of movie theaters.
+*   **Streaming Price Adjustments:** In a rare move, a streaming service has decided to lower its monthly fees, though the specific service isn't named in the headlines. This could indicate a shifting strategy in the competitive streaming market.
+*   **Star Wars Returns to Theaters:** The original 1977 theatrical cut of *Star Wars* is set to return to cinemas in 2027, a treat for fans of the classic version.
+
+**Hardware & Devices**
+*   **Meta's Expanding Hardware Ambitions:** Meta's latest acquisition hints at hardware plans extending beyond its current focus on glasses and headsets, suggesting new product categories are on the horizon.
+*   **Pixel as Webcam:** Pixel phone owners can now utilize their devices as webcams for the upcoming Nintendo Switch 2, offering a new utility for their smartphones.
+*   **Smart Home Integration Issues:** Chamberlain is once again blocking smart home integrations with its garage door openers, causing frustration for users and raising questions about interoperability in the smart home ecosystem.
+
+**Other Noteworthy Stories**
+*   **Waymo Software Recall:** Waymo is issuing a software recall concerning how its robotaxis interact with school buses, emphasizing the ongoing safety and regulatory challenges in autonomous vehicle development.
+*   **SteamOS vs. Windows for Gaming:** When it comes to dedicated GPUs, Windows currently holds an edge over SteamOS, though the comparison remains complex.
