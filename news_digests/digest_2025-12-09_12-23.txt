@@ -1,0 +1,24 @@
+Tech News Digest - 2025-12-09 12:23 PM
+==================================================
+
+Here's a TL;DR summary of today's top tech news:
+
+**AI & Chips**
+*   **Nvidia's China Exports Approved:** The Department of Commerce has approved the export of Nvidia's powerful H200 AI chips to China, a move that follows former President Trump's statement that Nvidia could sell more powerful AI chips to China.
+*   **Skild AI Funding:** SoftBank and Nvidia are reportedly in discussions to invest in Skild AI, potentially tripling its valuation to $14 billion.
+*   **Google's AI Try-On:** Google's AI-powered try-on app, Doppl, is expanding its features to include a shoppable discovery feed.
+
+**Regulatory & Legal**
+*   **Google Zero EU Investigation:** Google Zero, an initiative within Google, is currently under investigation by the European Union.
+*   **FTC Upholds Stalkerware Ban:** The Federal Trade Commission has upheld a ban against Scott Zuckerman, the founder of a stalkerware company.
+*   **Meta's EU Ad-Light Option:** Meta is offering an ad-light subscription option to its EU users, a move aimed at resolving an ongoing investigation.
+*   **Right to Repair Setback:** Congress has removed "right to repair" language from the 2026 defense bill, a blow to advocates for easier device repair.
+
+**Autonomous Vehicles**
+*   **Waymo's Growth:** An investor letter has revealed a significant increase in rides for Waymo's robotaxi service, indicating rapid growth.
+
+**Product & Hardware**
+*   **Fairphone Headphone Upgrade:** Fairphone has updated its over-ear headphones with improved sound, and notably, the best new components can be integrated into older models.
+
+**Industry & Business**
+*   **Paramount's Netflix Challenge:** Paramount is reportedly attempting a hostile takeover of Warner Bros. from Netflix, signaling a major shift in the streaming landscape.
