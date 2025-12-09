@@ -1,0 +1,30 @@
+Tech News Digest - 2025-12-09 12:55 AM
+==================================================
+
+Here's a TL;DR summary of today's key tech news:
+
+**AI & Robotics**
+
+*   **Skild AI Valuation Soars:** SoftBank and Nvidia are reportedly in discussions to invest in Skild AI, potentially valuing the company at $14 billion, nearly tripling its previous valuation.
+*   **Waymo's Rapid Growth:** An investor letter reveals a significant increase in Waymo's robotaxi rides, indicating strong growth in the autonomous vehicle sector.
+*   **Nvidia H200 Exports to China Approved:** The Department of Commerce has approved the export of Nvidia's H200 chips to China, a significant development for AI hardware accessibility in the region.
+*   **Google's AI Try-On Expands:** Google's AI try-on app, Doppl, is adding a shoppable discovery feed, enhancing its e-commerce capabilities.
+*   **AI's Limited Time Savings:** A new OpenAI report suggests that AI tools currently save workers less than an hour per day.
+
+**Industry & Business**
+
+*   **FTC Upholds Stalkerware Ban:** The Federal Trade Commission has upheld a ban against stalkerware founder Scott Zuckerman.
+*   **Paramount's Hostile Takeover Bid:** Paramount is reportedly attempting a hostile takeover of Warner Bros., aiming to compete with Netflix.
+*   **Meta's Ad-Light Option in EU:** Meta is offering European Union users an ad-light subscription option in an effort to resolve an ongoing investigation.
+
+**Consumer Tech & Policy**
+
+*   **Australia's Social Media Ban for Under 16s:** Australia is implementing a bold policy to restrict social media access for individuals under the age of 16.
+*   **Android-iPhone Switching Improvement:** Google and Apple are collaborating to improve the switching experience between Android and iPhone devices.
+*   **Right to Repair Language Removed:** Language supporting the "right to repair" has been removed from the 2026 defense bill by Congress.
+*   **ICEBlock Lawsuit Reveals App Store Pressure:** A lawsuit against ICEBlock indicates the Trump administration boasted about demanding app removal from app stores.
+
+**Gaming & Entertainment**
+
+*   **Letterboxd Video Store Launching Rentals:** Letterboxd's new Video Store will begin offering its first film rentals this week.
+*   **AI Music Copycat on Spotify:** An AI-generated copycat of the band King Gizzard & the Lizard Wizard went unnoticed on Spotify for weeks.
