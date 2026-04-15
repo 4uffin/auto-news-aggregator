@@ -2,8 +2,7 @@ name: Tech News Digest
 
 on:
   schedule:
-    # Runs at 00:00 and 12:00 UTC every day.
-    # This is equivalent to once every 12 hours.
+    # Runs at 19:00 UTC every Monday.
     - cron: '0 19 * * 1'
   
   # Allow manual runs from the GitHub Actions tab
@@ -19,6 +18,11 @@ jobs:
     - name: ⬇️ Checkout repository
       uses: actions/checkout@v4
 
+    - name: 🟢 Set up Node.js 24
+      uses: actions/setup-node@v4
+      with:
+        node-version: '24'
+
     - name: 🐍 Set up Python
       uses: actions/setup-python@v5
       with:
@@ -33,7 +37,7 @@ jobs:
       env:
         OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
       run: python generate_digest.py
-    
+
     # The job will automatically fail if the previous step fails due to an error.
     # This prevents the commit action from running if the script did not generate a file.
     - name: 💾 Commit and push changes
